@@ -1,0 +1,222 @@
+{
+    "Main": [
+        {
+            "Date": "2024.02.15",
+            "Notes": "Attack",
+            "Title": "Exploiting Alpha Transparency In Language And Vision-Based AI Systems",
+            "Link": "https://arxiv.org/abs/2402.09671"
+        },
+        {
+            "Date": "2024.02.13",
+            "Notes": "Attack",
+            "Title": "Test-Time Backdoor Attacks on Multimodal Large Language Models",
+            "Link": "https://arxiv.org/abs/2402.08577"
+        },
+        {
+            "Date": "2024.02.13",
+            "Notes": "Attack",
+            "Title": "Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast",
+            "Link": "https://arxiv.org/abs/2402.08567"
+        },
+        {
+            "Date": "2024.02.12",
+            "Notes": "Insights",
+            "Title": "Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models",
+            "Link": "https://arxiv.org/abs/2402.07865"
+        },
+        {
+            "Date": "2024.02.06",
+            "Notes": "Benchmark",
+            "Title": "HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal",
+            "Link": "https://arxiv.org/abs/2402.04249"
+        },
+        {
+            "Date": "2024.02.05",
+            "Notes": "Attack",
+            "Title": "Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models",
+            "Link": "https://arxiv.org/abs/2402.06659"
+        },
+        {
+            "Date": "2024.02.04",
+            "Notes": "Attack",
+            "Title": "Jailbreaking Attack against Multimodal Large Language Model",
+            "Link": "https://arxiv.org/abs/2402.02309"
+        },
+        {
+            "Date": "2024.02.03",
+            "Notes": "Defense",
+            "Title": "Safety Fine-Tuning at (Almost) No Cost: A Baseline for Vision Large Language Models",
+            "Link": "https://arxiv.org/abs/2402.02207"
+        },
+        {
+            "Date": "2024.02.01",
+            "Notes": "Survey",
+            "Title": "Safety of Multimodal Large Language Models on Images and Text",
+            "Link": "https://arxiv.org/abs/2402.00357"
+        },
+        {
+            "Date": "2024.01.16",
+            "Notes": "Attack",
+            "Title": "An Image Is Worth 1000 Lies: Transferability of Adversarial Images across Prompts on Vision-Language Models",
+            "Link": "https://openreview.net/forum?id=nc5GgFAvtk"
+        },
+        {
+            "Date": "2024.01.05",
+            "Notes": "Defense",
+            "Title": "MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance",
+            "Link": "https://arxiv.org/abs/2401.02906"
+        },
+        {
+            "Date": "2024.01.03",
+            "Notes": "Benchmark",
+            "Title": "GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse",
+            "Link": "https://arxiv.org/abs/2401.01523"
+        },
+        {
+            "Date": "2023.12.13",
+            "Notes": "Benchmark",
+            "Title": "ToViLaG: Your Visual-Language Generative Model is Also An Evildoer",
+            "Link": "https://arxiv.org/abs/2312.11523v1"
+        },
+        {
+            "Date": "2023.11.29",
+            "Notes": "Attack, Benchmark",
+            "Title": "Query-Relevant Images Jailbreak Large Multi-Modal Models",
+            "Link": "https://arxiv.org/abs/2311.17600"
+        },
+        {
+            "Date": "2023.11.27",
+            "Notes": "Attack",
+            "Title": "How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs",
+            "Link": "https://arxiv.org/abs/2311.16101"
+        },
+        {
+            "Date": "2023.11.24",
+            "Notes": "Benchmark",
+            "Title": "Large Language Models as Automated Aligners for benchmarking Vision-Language Models",
+            "Link": "https://arxiv.org/abs/2311.14580"
+        },
+        {
+            "Date": "2023.11.16",
+            "Notes": "Defense, Benchmark",
+            "Title": "DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback",
+            "Link": "https://arxiv.org/abs/2311.10081"
+        },
+        {
+            "Date": "2023.11.15",
+            "Notes": "Attack, Defense",
+            "Title": "Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts",
+            "Link": "https://arxiv.org/abs/2311.09127"
+        },
+        {
+            "Date": "2023.11.09",
+            "Notes": "Attack, Benchmark",
+            "Title": "FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts",
+            "Link": "https://arxiv.org/abs/2311.05608"
+        },
+        {
+            "Date": "2023.10.05",
+            "Notes": "A finding",
+            "Title": "Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!",
+            "Link": "https://arxiv.org/abs/2310.03693"
+        },
+        {
+            "Date": "2023.10.04",
+            "Notes": "Attack",
+            "Title": "Misusing Tools in Large Language Models With Visual Adversarial Examples",
+            "Link": "https://arxiv.org/abs/2310.03185"
+        },
+        {
+            "Date": "2023.10.03",
+            "Notes": "Attack, Defense, Benchmark",
+            "Title": "Can Language Models be Instructed to Protect Personal Information?",
+            "Link": "https://arxiv.org/abs/2310.02224"
+        },
+        {
+            "Date": "2023.09.21",
+            "Notes": "Attack",
+            "Title": "How Robust is Google's Bard to Adversarial Image Attacks?",
+            "Link": "https://arxiv.org/abs/2309.11751"
+        },
+        {
+            "Date": "2023.09.01",
+            "Notes": "Attack",
+            "Title": "Image Hijacks: Adversarial Images can Control Generative Models at Runtime",
+            "Link": "https://arxiv.org/abs/2309.00236"
+        },
+        {
+            "Date": "2023.08.21",
+            "Notes": "Attack",
+            "Title": "On the Adversarial Robustness of Multi-Modal Foundation Models",
+            "Link": "https://arxiv.org/abs/2308.10741"
+        },
+        {
+            "Date": "2023.07.26",
+            "Notes": "Attack",
+            "Title": "Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models",
+            "Link": "https://arxiv.org/abs/2307.14539"
+        },
+        {
+            "Date": "2023.07.19",
+            "Notes": "Attack",
+            "Title": "Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs",
+            "Link": "https://arxiv.org/abs/2307.10490"
+        },
+        {
+            "Date": "2023.06.26",
+            "Notes": "Attack",
+            "Title": "Are aligned neural networks adversarially aligned?",
+            "Link": "https://arxiv.org/abs/2306.15447"
+        },
+        {
+            "Date": "2023.06.22",
+            "Notes": "Attack",
+            "Title": "Visual Adversarial Examples Jailbreak Aligned Large Language Models",
+            "Link": "https://arxiv.org/abs/2306.13213"
+        }
+    ],
+    "Other": [
+        {
+            "Date": "2024.02.21",
+            "Notes": "Attack(Robustness)",
+            "Title": "VL-Trojan: Multimodal Instruction Backdoor Attacks against Autoregressive Visual Language Models",
+            "Link": "https://arxiv.org/abs/2402.13851"
+        },
+        {
+            "Date": "2024.02.19",
+            "Notes": "Defense(Robustness)",
+            "Title": "Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models",
+            "Link": "https://arxiv.org/abs/2402.12336"
+        },
+        {
+            "Date": "2024.02.08",
+            "Notes": "Survey",
+            "Title": "A Survey on Safe Multi-Modal Learning System",
+            "Link": "https://arxiv.org/abs/2402.05355"
+        },
+        {
+            "Date": "2024.02.01",
+            "Notes": "Attack(Robustness)",
+            "Title": "Vision-LLMs Can Fool Themselves with Self-Generated Typographic Attacks",
+            "Link": "https://arxiv.org/abs/2402.00626"
+        },
+        {
+            "Date": "2023.12.06",
+            "Notes": "Attack(Robustness)",
+            "Title": "On the Robustness of Large Multimodal Models Against Image Adversarial Attacks",
+            "Link": "https://arxiv.org/abs/2312.03777"
+        },
+        {
+            "Date": "2023.12.07",
+            "Notes": "Attack(Robustness)",
+            "Title": "Hijacking Context in Large Multi-modal Models",
+            "Link": "https://arxiv.org/abs/2312.07553"
+        },
+        {
+            "Date": "2023.12.04",
+            "Notes": "Attack(Robustness)",
+            "Title": "InstructTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models",
+            "Link": "https://arxiv.org/abs/2312.01886"
+        }
+    ]
+}
