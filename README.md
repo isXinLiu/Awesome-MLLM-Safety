@@ -27,6 +27,11 @@ Taxonomy----safety of MLLMs on images and text:
     <th>Title</th>
   </tr>
   <tr>
+    <td>2024.02.20</td>
+    <td>Attack(Agent)</td>
+    <td><a href='https://arxiv.org/abs/2402.14859' target='_blank'>The Wolf Within: Covert Injection of Malice into MLLM Societies via an MLLM Operative</a></td>
+  </tr>
+  <tr>
     <td>2024.02.15</td>
     <td>Attack</td>
     <td><a href='https://arxiv.org/abs/2402.09671' target='_blank'>Exploiting Alpha Transparency In Language And Vision-Based AI Systems</a></td>
@@ -38,7 +43,7 @@ Taxonomy----safety of MLLMs on images and text:
   </tr>
   <tr>
     <td>2024.02.13</td>
-    <td>Attack</td>
+    <td>Attack(Agent)</td>
     <td><a href='https://arxiv.org/abs/2402.08567' target='_blank'>Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast</a></td>
   </tr>
   <tr>
@@ -179,6 +184,16 @@ Taxonomy----safety of MLLMs on images and text:
     <th>Date</th>
     <th>Notes</th>
     <th>Title</th>
+  </tr>
+  <tr>
+    <td>2024.02.23</td>
+    <td>Safety in Human-AI Collaboration</td>
+    <td><a href='https://arxiv.org/abs/2402.15350' target='_blank'>Farsight: Fostering Responsible AI Awareness During AI Application Prototyping</a></td>
+  </tr>
+  <tr>
+    <td>2024.02.22</td>
+    <td>Attack(Robustness)</td>
+    <td><a href='https://arxiv.org/abs/2402.14899' target='_blank'>Stop Reasoning! When Multimodal LLMs with Chain-of-Thought Reasoning Meets Adversarial Images</a></td>
   </tr>
   <tr>
     <td>2024.02.21</td>

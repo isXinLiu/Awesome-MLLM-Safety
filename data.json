@@ -1,6 +1,12 @@
 {
     "Main": [
         {
+            "Date": "2024.02.20",
+            "Notes": "Attack(Agent)",
+            "Title": "The Wolf Within: Covert Injection of Malice into MLLM Societies via an MLLM Operative",
+            "Link": "https://arxiv.org/abs/2402.14859"
+        },
+        {
             "Date": "2024.02.15",
             "Notes": "Attack",
             "Title": "Exploiting Alpha Transparency In Language And Vision-Based AI Systems",
@@ -14,7 +20,7 @@
         },
         {
             "Date": "2024.02.13",
-            "Notes": "Attack",
+            "Notes": "Attack(Agent)",
             "Title": "Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast",
             "Link": "https://arxiv.org/abs/2402.08567"
         },
@@ -176,6 +182,18 @@
         }
     ],
     "Other": [
+        {
+            "Date": "2024.02.23",
+            "Notes": "Safety in Human-AI Collaboration",
+            "Title": "Farsight: Fostering Responsible AI Awareness During AI Application Prototyping",
+            "Link": "https://arxiv.org/abs/2402.15350"
+        },
+        {
+            "Date": "2024.02.22",
+            "Notes": "Attack(Robustness)",
+            "Title": "Stop Reasoning! When Multimodal LLMs with Chain-of-Thought Reasoning Meets Adversarial Images",
+            "Link": "https://arxiv.org/abs/2402.14899"
+        },
         {
             "Date": "2024.02.21",
             "Notes": "Attack(Robustness)",
