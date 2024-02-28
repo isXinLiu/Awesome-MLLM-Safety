@@ -186,6 +186,11 @@ Taxonomy----safety of MLLMs on images and text:
     <th>Title</th>
   </tr>
   <tr>
+    <td>2024.02.26</td>
+    <td>Attack(LLMs)</td>
+    <td><a href='https://arxiv.org/abs/2402.16822' target='_blank'>Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts</a></td>
+  </tr>
+  <tr>
     <td>2024.02.23</td>
     <td>Safety in Human-AI Collaboration</td>
     <td><a href='https://arxiv.org/abs/2402.15350' target='_blank'>Farsight: Fostering Responsible AI Awareness During AI Application Prototyping</a></td>
@@ -204,6 +209,11 @@ Taxonomy----safety of MLLMs on images and text:
     <td>2024.02.19</td>
     <td>Defense(Robustness)</td>
     <td><a href='https://arxiv.org/abs/2402.12336' target='_blank'>Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models</a></td>
+  </tr>
+  <tr>
+    <td>2024.02.15</td>
+    <td>Attack(Robustness;Robotics)</td>
+    <td><a href='https://arxiv.org/abs/2402.10340' target='_blank'>On the Safety Concerns of Deploying LLMs/VLMs in Robotics: Highlighting the Risks and Vulnerabilities</a></td>
   </tr>
   <tr>
     <td>2024.02.08</td>
