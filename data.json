@@ -183,6 +183,12 @@
     ],
     "Other": [
         {
+            "Date": "2024.02.26",
+            "Notes": "Attack(LLMs)",
+            "Title": "Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts",
+            "Link": "https://arxiv.org/abs/2402.16822"
+        },
+        {
             "Date": "2024.02.23",
             "Notes": "Safety in Human-AI Collaboration",
             "Title": "Farsight: Fostering Responsible AI Awareness During AI Application Prototyping",
@@ -205,6 +211,12 @@
             "Notes": "Defense(Robustness)",
             "Title": "Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models",
             "Link": "https://arxiv.org/abs/2402.12336"
+        },
+        {
+            "Date": "2024.02.15",
+            "Notes": "Attack(Robustness;Robotics)",
+            "Title": "On the Safety Concerns of Deploying LLMs/VLMs in Robotics: Highlighting the Risks and Vulnerabilities",
+            "Link": "https://arxiv.org/abs/2402.10340"
         },
         {
             "Date": "2024.02.08",
