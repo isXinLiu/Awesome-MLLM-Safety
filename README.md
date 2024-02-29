@@ -62,6 +62,11 @@ Taxonomy----safety of MLLMs on images and text:
     <td><a href='https://arxiv.org/abs/2402.06659' target='_blank'>Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models</a></td>
   </tr>
   <tr>
+    <td>2024.02.05</td>
+    <td>Attack</td>
+    <td><a href='https://arxiv.org/abs/2402.03299' target='_blank'>GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models</a></td>
+  </tr>
+  <tr>
     <td>2024.02.04</td>
     <td>Attack</td>
     <td><a href='https://arxiv.org/abs/2402.02309' target='_blank'>Jailbreaking Attack against Multimodal Large Language Model</a></td>
@@ -184,6 +189,11 @@ Taxonomy----safety of MLLMs on images and text:
     <th>Date</th>
     <th>Notes</th>
     <th>Title</th>
+  </tr>
+  <tr>
+    <td>2024.02.26</td>
+    <td>Attack(LLM-Driven Web Agents)</td>
+    <td><a href='https://arxiv.org/abs/2402.16965' target='_blank'>WIPI: A New Web Threat for LLM-Driven Web Agents</a></td>
   </tr>
   <tr>
     <td>2024.02.26</td>
