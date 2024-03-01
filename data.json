@@ -67,6 +67,18 @@
             "Link": "https://arxiv.org/abs/2402.00357"
         },
         {
+            "Date": "2024.01.23",
+            "Notes": "Benchmark",
+            "Title": "Red Teaming Visual Language Models",
+            "Link": "https://arxiv.org/abs/2401.12915"
+        },
+        {
+            "Date": "2024.01.20",
+            "Notes": "Defense",
+            "Title": "InferAligner: Inference-Time Alignment for Harmlessness through Cross-Model Guidance",
+            "Link": "https://arxiv.org/abs/2401.11206"
+        },
+        {
             "Date": "2024.01.16",
             "Notes": "Attack",
             "Title": "An Image Is Worth 1000 Lies: Transferability of Adversarial Images across Prompts on Vision-Language Models",

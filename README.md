@@ -82,6 +82,16 @@ Taxonomy----safety of MLLMs on images and text:
     <td><a href='https://arxiv.org/abs/2402.00357' target='_blank'>Safety of Multimodal Large Language Models on Images and Text</a></td>
   </tr>
   <tr>
+    <td>2024.01.23</td>
+    <td>Benchmark</td>
+    <td><a href='https://arxiv.org/abs/2401.12915' target='_blank'>Red Teaming Visual Language Models</a></td>
+  </tr>
+  <tr>
+    <td>2024.01.20</td>
+    <td>Defense</td>
+    <td><a href='https://arxiv.org/abs/2401.11206' target='_blank'>InferAligner: Inference-Time Alignment for Harmlessness through Cross-Model Guidance</a></td>
+  </tr>
+  <tr>
     <td>2024.01.16</td>
     <td>Attack</td>
     <td><a href='https://openreview.net/forum?id=nc5GgFAvtk' target='_blank'>An Image Is Worth 1000 Lies: Transferability of Adversarial Images across Prompts on Vision-Language Models</a></td>
