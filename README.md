@@ -201,6 +201,16 @@ Taxonomy----safety of MLLMs on images and text:
     <th>Title</th>
   </tr>
   <tr>
+    <td>2024.02.29</td>
+    <td>Attack,Benchmark,Defense(Robustness)</td>
+    <td><a href='https://arxiv.org/abs/2402.19150' target='_blank'>Typographic Attacks in Large Multimodal Models Can be Alleviated by More Informative Prompts</a></td>
+  </tr>
+  <tr>
+    <td>2024.02.28</td>
+    <td>Attack(LLMs)</td>
+    <td><a href='https://arxiv.org/abs/2402.18649' target='_blank'>A New Era in LLM Security: Exploring Security Concerns in Real-World LLM-based Systems</a></td>
+  </tr>
+  <tr>
     <td>2024.02.26</td>
     <td>Attack(LLM-Driven Web Agents)</td>
     <td><a href='https://arxiv.org/abs/2402.16965' target='_blank'>WIPI: A New Web Threat for LLM-Driven Web Agents</a></td>
@@ -239,6 +249,11 @@ Taxonomy----safety of MLLMs on images and text:
     <td>2024.02.08</td>
     <td>Survey</td>
     <td><a href='https://arxiv.org/abs/2402.05355' target='_blank'>A Survey on Safe Multi-Modal Learning System</a></td>
+  </tr>
+  <tr>
+    <td>2024.02.02</td>
+    <td>Real Application</td>
+    <td><a href='https://arxiv.org/abs/2402.18587' target='_blank'>At the Dawn of Generative AI Era: A Tutorial-cum-Survey on New Frontiers in 6G Wireless Intelligence</a></td>
   </tr>
   <tr>
     <td>2024.02.01</td>

@@ -201,6 +201,18 @@
     ],
     "Other": [
         {
+            "Date": "2024.02.29",
+            "Notes": "Attack,Benchmark,Defense(Robustness)",
+            "Title": "Typographic Attacks in Large Multimodal Models Can be Alleviated by More Informative Prompts",
+            "Link": "https://arxiv.org/abs/2402.19150"
+        },
+        {
+            "Date": "2024.02.28",
+            "Notes": "Attack(LLMs)",
+            "Title": "A New Era in LLM Security: Exploring Security Concerns in Real-World LLM-based Systems",
+            "Link": "https://arxiv.org/abs/2402.18649"
+        },
+        {
             "Date": "2024.02.26",
             "Notes": "Attack(LLM-Driven Web Agents)",
             "Title": "WIPI: A New Web Threat for LLM-Driven Web Agents",
@@ -247,6 +259,12 @@
             "Notes": "Survey",
             "Title": "A Survey on Safe Multi-Modal Learning System",
             "Link": "https://arxiv.org/abs/2402.05355"
+        },
+        {
+            "Date": "2024.02.02",
+            "Notes": "Real Application",
+            "Title": "At the Dawn of Generative AI Era: A Tutorial-cum-Survey on New Frontiers in 6G Wireless Intelligence",
+            "Link": "https://arxiv.org/abs/2402.18587"
         },
         {
             "Date": "2024.02.01",
