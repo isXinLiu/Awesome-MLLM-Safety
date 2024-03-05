@@ -201,6 +201,21 @@ Taxonomy----safety of MLLMs on images and text:
     <th>Title</th>
   </tr>
   <tr>
+    <td>2024.03.04</td>
+    <td>Defense(Robustness)</td>
+    <td><a href='https://arxiv.org/abs/2403.01849' target='_blank'>One Prompt Word is Enough to Boost Adversarial Robustness for Pre-trained Vision-Language Models</a></td>
+  </tr>
+  <tr>
+    <td>2024.03.04</td>
+    <td>Real Application</td>
+    <td><a href='https://arxiv.org/abs/2403.02253' target='_blank'>KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection</a></td>
+  </tr>
+  <tr>
+    <td>2024.03.03</td>
+    <td>Defense (text2img)</td>
+    <td><a href='https://arxiv.org/abs/2403.01446' target='_blank'>GuardT2I: Defending Text-to-Image Models from Adversarial Prompts</a></td>
+  </tr>
+  <tr>
     <td>2024.02.29</td>
     <td>Attack,Benchmark,Defense(Robustness)</td>
     <td><a href='https://arxiv.org/abs/2402.19150' target='_blank'>Typographic Attacks in Large Multimodal Models Can be Alleviated by More Informative Prompts</a></td>
@@ -249,6 +264,11 @@ Taxonomy----safety of MLLMs on images and text:
     <td>2024.02.08</td>
     <td>Survey</td>
     <td><a href='https://arxiv.org/abs/2402.05355' target='_blank'>A Survey on Safe Multi-Modal Learning System</a></td>
+  </tr>
+  <tr>
+    <td>2024.02.07</td>
+    <td>Benchmark(LLM)</td>
+    <td><a href='https://arxiv.org/abs/2402.05044' target='_blank'>SALAD-Bench: A Hierarchical and Comprehensive Safety Benchmark for Large Language Models</a></td>
   </tr>
   <tr>
     <td>2024.02.02</td>

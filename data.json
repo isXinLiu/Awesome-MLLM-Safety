@@ -201,6 +201,24 @@
     ],
     "Other": [
         {
+            "Date": "2024.03.04",
+            "Notes": "Defense(Robustness)",
+            "Title": "One Prompt Word is Enough to Boost Adversarial Robustness for Pre-trained Vision-Language Models",
+            "Link": "https://arxiv.org/abs/2403.01849"
+        },
+        {
+            "Date": "2024.03.04",
+            "Notes": "Real Application",
+            "Title": "KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection",
+            "Link": "https://arxiv.org/abs/2403.02253"
+        },
+        {
+            "Date": "2024.03.03",
+            "Notes": "Defense (text2img)",
+            "Title": "GuardT2I: Defending Text-to-Image Models from Adversarial Prompts",
+            "Link": "https://arxiv.org/abs/2403.01446"
+        },
+        {
             "Date": "2024.02.29",
             "Notes": "Attack,Benchmark,Defense(Robustness)",
             "Title": "Typographic Attacks in Large Multimodal Models Can be Alleviated by More Informative Prompts",
@@ -259,6 +277,12 @@
             "Notes": "Survey",
             "Title": "A Survey on Safe Multi-Modal Learning System",
             "Link": "https://arxiv.org/abs/2402.05355"
+        },
+        {
+            "Date": "2024.02.07",
+            "Notes": "Benchmark(LLM)",
+            "Title": "SALAD-Bench: A Hierarchical and Comprehensive Safety Benchmark for Large Language Models",
+            "Link": "https://arxiv.org/abs/2402.05044"
         },
         {
             "Date": "2024.02.02",
