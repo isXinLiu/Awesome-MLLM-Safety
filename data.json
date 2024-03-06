@@ -1,6 +1,12 @@
 {
     "Main": [
         {
+            "Date": "2024.03.05",
+            "Notes": "Attack",
+            "Title": "ImgTrojan: Jailbreaking Vision-Language Models with ONE Image",
+            "Link": "https://arxiv.org/abs/2403.02910"
+        },
+        {
             "Date": "2024.02.20",
             "Notes": "Attack(Agent)",
             "Title": "The Wolf Within: Covert Injection of Malice into MLLM Societies via an MLLM Operative",

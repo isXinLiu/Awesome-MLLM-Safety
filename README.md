@@ -27,6 +27,11 @@ Taxonomy----safety of MLLMs on images and text:
     <th>Title</th>
   </tr>
   <tr>
+    <td>2024.03.05</td>
+    <td>Attack</td>
+    <td><a href='https://arxiv.org/abs/2403.02910' target='_blank'>ImgTrojan: Jailbreaking Vision-Language Models with ONE Image</a></td>
+  </tr>
+  <tr>
     <td>2024.02.20</td>
     <td>Attack(Agent)</td>
     <td><a href='https://arxiv.org/abs/2402.14859' target='_blank'>The Wolf Within: Covert Injection of Malice into MLLM Societies via an MLLM Operative</a></td>
