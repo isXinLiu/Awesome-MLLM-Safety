@@ -206,6 +206,11 @@ Taxonomy----safety of MLLMs on images and text:
     <th>Title</th>
   </tr>
   <tr>
+    <td>2024.03.06</td>
+    <td>Real Application</td>
+    <td><a href='https://arxiv.org/abs/2403.03627' target='_blank'>Multimodal Large Language Models to Support Real-World Fact-Checking</a></td>
+  </tr>
+  <tr>
     <td>2024.03.04</td>
     <td>Defense(Robustness)</td>
     <td><a href='https://arxiv.org/abs/2403.01849' target='_blank'>One Prompt Word is Enough to Boost Adversarial Robustness for Pre-trained Vision-Language Models</a></td>

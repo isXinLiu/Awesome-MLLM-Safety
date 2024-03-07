@@ -207,6 +207,12 @@
     ],
     "Other": [
         {
+            "Date": "2024.03.06",
+            "Notes": "Real Application",
+            "Title": "Multimodal Large Language Models to Support Real-World Fact-Checking",
+            "Link": "https://arxiv.org/abs/2403.03627"
+        },
+        {
             "Date": "2024.03.04",
             "Notes": "Defense(Robustness)",
             "Title": "One Prompt Word is Enough to Boost Adversarial Robustness for Pre-trained Vision-Language Models",
