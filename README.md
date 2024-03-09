@@ -199,110 +199,113 @@ Taxonomy----safety of MLLMs on images and text:
 </table>
 
 ## Others
-<table>
-  <tr>
-    <th>Date</th>
-    <th>Notes</th>
-    <th>Title</th>
-  </tr>
-  <tr>
-    <td>2024.03.06</td>
-    <td>Real Application</td>
-    <td><a href='https://arxiv.org/abs/2403.03627' target='_blank'>Multimodal Large Language Models to Support Real-World Fact-Checking</a></td>
-  </tr>
-  <tr>
-    <td>2024.03.04</td>
-    <td>Defense(Robustness)</td>
-    <td><a href='https://arxiv.org/abs/2403.01849' target='_blank'>One Prompt Word is Enough to Boost Adversarial Robustness for Pre-trained Vision-Language Models</a></td>
-  </tr>
-  <tr>
-    <td>2024.03.04</td>
-    <td>Real Application</td>
-    <td><a href='https://arxiv.org/abs/2403.02253' target='_blank'>KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection</a></td>
-  </tr>
-  <tr>
-    <td>2024.03.03</td>
-    <td>Defense (text2img)</td>
-    <td><a href='https://arxiv.org/abs/2403.01446' target='_blank'>GuardT2I: Defending Text-to-Image Models from Adversarial Prompts</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.29</td>
-    <td>Attack,Benchmark,Defense(Robustness)</td>
-    <td><a href='https://arxiv.org/abs/2402.19150' target='_blank'>Typographic Attacks in Large Multimodal Models Can be Alleviated by More Informative Prompts</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.28</td>
-    <td>Attack(LLMs)</td>
-    <td><a href='https://arxiv.org/abs/2402.18649' target='_blank'>A New Era in LLM Security: Exploring Security Concerns in Real-World LLM-based Systems</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.26</td>
-    <td>Attack(LLM-Driven Web Agents)</td>
-    <td><a href='https://arxiv.org/abs/2402.16965' target='_blank'>WIPI: A New Web Threat for LLM-Driven Web Agents</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.26</td>
-    <td>Attack(LLMs)</td>
-    <td><a href='https://arxiv.org/abs/2402.16822' target='_blank'>Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.23</td>
-    <td>Safety in Human-AI Collaboration</td>
-    <td><a href='https://arxiv.org/abs/2402.15350' target='_blank'>Farsight: Fostering Responsible AI Awareness During AI Application Prototyping</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.22</td>
-    <td>Attack(Robustness)</td>
-    <td><a href='https://arxiv.org/abs/2402.14899' target='_blank'>Stop Reasoning! When Multimodal LLMs with Chain-of-Thought Reasoning Meets Adversarial Images</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.21</td>
-    <td>Attack(Robustness)</td>
-    <td><a href='https://arxiv.org/abs/2402.13851' target='_blank'>VL-Trojan: Multimodal Instruction Backdoor Attacks against Autoregressive Visual Language Models</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.19</td>
-    <td>Defense(Robustness)</td>
-    <td><a href='https://arxiv.org/abs/2402.12336' target='_blank'>Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.15</td>
-    <td>Attack(Robustness;Robotics)</td>
-    <td><a href='https://arxiv.org/abs/2402.10340' target='_blank'>On the Safety Concerns of Deploying LLMs/VLMs in Robotics: Highlighting the Risks and Vulnerabilities</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.08</td>
-    <td>Survey</td>
-    <td><a href='https://arxiv.org/abs/2402.05355' target='_blank'>A Survey on Safe Multi-Modal Learning System</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.07</td>
-    <td>Benchmark(LLM)</td>
-    <td><a href='https://arxiv.org/abs/2402.05044' target='_blank'>SALAD-Bench: A Hierarchical and Comprehensive Safety Benchmark for Large Language Models</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.02</td>
-    <td>Real Application</td>
-    <td><a href='https://arxiv.org/abs/2402.18587' target='_blank'>At the Dawn of Generative AI Era: A Tutorial-cum-Survey on New Frontiers in 6G Wireless Intelligence</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.01</td>
-    <td>Attack(Robustness)</td>
-    <td><a href='https://arxiv.org/abs/2402.00626' target='_blank'>Vision-LLMs Can Fool Themselves with Self-Generated Typographic Attacks</a></td>
-  </tr>
-  <tr>
-    <td>2023.12.06</td>
-    <td>Attack(Robustness)</td>
-    <td><a href='https://arxiv.org/abs/2312.03777' target='_blank'>On the Robustness of Large Multimodal Models Against Image Adversarial Attacks</a></td>
-  </tr>
-  <tr>
-    <td>2023.12.07</td>
-    <td>Attack(Robustness)</td>
-    <td><a href='https://arxiv.org/abs/2312.07553' target='_blank'>Hijacking Context in Large Multi-modal Models</a></td>
-  </tr>
-  <tr>
-    <td>2023.12.04</td>
-    <td>Attack(Robustness)</td>
-    <td><a href='https://arxiv.org/abs/2312.01886' target='_blank'>InstructTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models</a></td>
-  </tr>
-</table>
+<details>
+  <summary>Others</summary>
+  <table>
+    <tr>
+      <th>Date</th>
+      <th>Notes</th>
+      <th>Title</th>
+    </tr>
+    <tr>
+      <td>2024.03.06</td>
+      <td>Real Application</td>
+      <td><a href='https://arxiv.org/abs/2403.03627' target='_blank'>Multimodal Large Language Models to Support Real-World Fact-Checking</a></td>
+    </tr>
+    <tr>
+      <td>2024.03.04</td>
+      <td>Defense(Robustness)</td>
+      <td><a href='https://arxiv.org/abs/2403.01849' target='_blank'>One Prompt Word is Enough to Boost Adversarial Robustness for Pre-trained Vision-Language Models</a></td>
+    </tr>
+    <tr>
+      <td>2024.03.04</td>
+      <td>Real Application</td>
+      <td><a href='https://arxiv.org/abs/2403.02253' target='_blank'>KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection</a></td>
+    </tr>
+    <tr>
+      <td>2024.03.03</td>
+      <td>Defense (text2img)</td>
+      <td><a href='https://arxiv.org/abs/2403.01446' target='_blank'>GuardT2I: Defending Text-to-Image Models from Adversarial Prompts</a></td>
+    </tr>
+    <tr>
+      <td>2024.02.29</td>
+      <td>Attack,Benchmark,Defense(Robustness)</td>
+      <td><a href='https://arxiv.org/abs/2402.19150' target='_blank'>Typographic Attacks in Large Multimodal Models Can be Alleviated by More Informative Prompts</a></td>
+    </tr>
+    <tr>
+      <td>2024.02.28</td>
+      <td>Attack(LLMs)</td>
+      <td><a href='https://arxiv.org/abs/2402.18649' target='_blank'>A New Era in LLM Security: Exploring Security Concerns in Real-World LLM-based Systems</a></td>
+    </tr>
+    <tr>
+      <td>2024.02.26</td>
+      <td>Attack(LLM-Driven Web Agents)</td>
+      <td><a href='https://arxiv.org/abs/2402.16965' target='_blank'>WIPI: A New Web Threat for LLM-Driven Web Agents</a></td>
+    </tr>
+    <tr>
+      <td>2024.02.26</td>
+      <td>Attack(LLMs)</td>
+      <td><a href='https://arxiv.org/abs/2402.16822' target='_blank'>Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts</a></td>
+    </tr>
+    <tr>
+      <td>2024.02.23</td>
+      <td>Safety in Human-AI Collaboration</td>
+      <td><a href='https://arxiv.org/abs/2402.15350' target='_blank'>Farsight: Fostering Responsible AI Awareness During AI Application Prototyping</a></td>
+    </tr>
+    <tr>
+      <td>2024.02.22</td>
+      <td>Attack(Robustness)</td>
+      <td><a href='https://arxiv.org/abs/2402.14899' target='_blank'>Stop Reasoning! When Multimodal LLMs with Chain-of-Thought Reasoning Meets Adversarial Images</a></td>
+    </tr>
+    <tr>
+      <td>2024.02.21</td>
+      <td>Attack(Robustness)</td>
+      <td><a href='https://arxiv.org/abs/2402.13851' target='_blank'>VL-Trojan: Multimodal Instruction Backdoor Attacks against Autoregressive Visual Language Models</a></td>
+    </tr>
+    <tr>
+      <td>2024.02.19</td>
+      <td>Defense(Robustness)</td>
+      <td><a href='https://arxiv.org/abs/2402.12336' target='_blank'>Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models</a></td>
+    </tr>
+    <tr>
+      <td>2024.02.15</td>
+      <td>Attack(Robustness;Robotics)</td>
+      <td><a href='https://arxiv.org/abs/2402.10340' target='_blank'>On the Safety Concerns of Deploying LLMs/VLMs in Robotics: Highlighting the Risks and Vulnerabilities</a></td>
+    </tr>
+    <tr>
+      <td>2024.02.08</td>
+      <td>Survey</td>
+      <td><a href='https://arxiv.org/abs/2402.05355' target='_blank'>A Survey on Safe Multi-Modal Learning System</a></td>
+    </tr>
+    <tr>
+      <td>2024.02.07</td>
+      <td>Benchmark(LLM)</td>
+      <td><a href='https://arxiv.org/abs/2402.05044' target='_blank'>SALAD-Bench: A Hierarchical and Comprehensive Safety Benchmark for Large Language Models</a></td>
+    </tr>
+    <tr>
+      <td>2024.02.02</td>
+      <td>Real Application</td>
+      <td><a href='https://arxiv.org/abs/2402.18587' target='_blank'>At the Dawn of Generative AI Era: A Tutorial-cum-Survey on New Frontiers in 6G Wireless Intelligence</a></td>
+    </tr>
+    <tr>
+      <td>2024.02.01</td>
+      <td>Attack(Robustness)</td>
+      <td><a href='https://arxiv.org/abs/2402.00626' target='_blank'>Vision-LLMs Can Fool Themselves with Self-Generated Typographic Attacks</a></td>
+    </tr>
+    <tr>
+      <td>2023.12.06</td>
+      <td>Attack(Robustness)</td>
+      <td><a href='https://arxiv.org/abs/2312.03777' target='_blank'>On the Robustness of Large Multimodal Models Against Image Adversarial Attacks</a></td>
+    </tr>
+    <tr>
+      <td>2023.12.07</td>
+      <td>Attack(Robustness)</td>
+      <td><a href='https://arxiv.org/abs/2312.07553' target='_blank'>Hijacking Context in Large Multi-modal Models</a></td>
+    </tr>
+    <tr>
+      <td>2023.12.04</td>
+      <td>Attack(Robustness)</td>
+      <td><a href='https://arxiv.org/abs/2312.01886' target='_blank'>InstructTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models</a></td>
+    </tr>
+  </table>
+</details>

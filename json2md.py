@@ -32,16 +32,19 @@ prefix_str = (
 mid_str = (
     "</table>\n\n"
     "## Others\n"
-    "<table>\n"
-    "  <tr>\n"
-    "    <th>Date</th>\n"
-    "    <th>Notes</th>\n"
-    "    <th>Title</th>\n"
-    "  </tr>\n"
+    "<details>\n"
+    "  <summary>Others</summary>\n"
+    "  <table>\n"
+    "    <tr>\n"
+    "      <th>Date</th>\n"
+    "      <th>Notes</th>\n"
+    "      <th>Title</th>\n"
+    "    </tr>\n"
 )
 
 suffix_str = (
-    "</table>\n"
+    "  </table>\n"
+    "</details>\n"
 )
 
 paper_str_template = (
@@ -50,6 +53,14 @@ paper_str_template = (
     "    <td>{paper_notes}</td>\n"
     "    <td><a href='{paper_link}' target='_blank'>{paper_title}</a></td>\n"
     "  </tr>\n"
+)
+
+paper_str_template2 = (
+    "    <tr>\n"
+    "      <td>{paper_date}</td>\n"
+    "      <td>{paper_notes}</td>\n"
+    "      <td><a href='{paper_link}' target='_blank'>{paper_title}</a></td>\n"
+    "    </tr>\n"
 )
 
 if __name__ == "__main__":
@@ -69,7 +80,7 @@ if __name__ == "__main__":
             mf.write(paper_str)
         mf.write(mid_str)
         for paper in json_data['Other']:
-            paper_str = paper_str_template.format(
+            paper_str = paper_str_template2.format(
                 paper_date=paper['Date'],
                 paper_notes=paper['Notes'],
                 paper_link=paper['Link'],
