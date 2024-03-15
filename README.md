@@ -27,6 +27,26 @@ Taxonomy----safety of MLLMs on images and text:
     <th>Title</th>
   </tr>
   <tr>
+    <td>2024.03.14</td>
+    <td>Defense</td>
+    <td><a href='https://arxiv.org/abs/2403.09513' target='_blank'>AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting</a></td>
+  </tr>
+  <tr>
+    <td>2024.03.14</td>
+    <td>Defense</td>
+    <td><a href='https://arxiv.org/abs/2403.09572' target='_blank'>Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation</a></td>
+  </tr>
+  <tr>
+    <td>2024.03.14</td>
+    <td>Defense</td>
+    <td><a href='https://arxiv.org/abs/2403.09037' target='_blank'>The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?</a></td>
+  </tr>
+  <tr>
+    <td>2024.03.14</td>
+    <td>Benchmark</td>
+    <td><a href='https://arxiv.org/abs/2403.09346' target='_blank'>AVIBench: Towards Evaluating the Robustness of Large Vision-Language Model on Adversarial Visual-Instructions</a></td>
+  </tr>
+  <tr>
     <td>2024.03.05</td>
     <td>Attack</td>
     <td><a href='https://arxiv.org/abs/2403.02910' target='_blank'>ImgTrojan: Jailbreaking Vision-Language Models with ONE Image</a></td>
@@ -291,6 +311,11 @@ Taxonomy----safety of MLLMs on images and text:
       <td>2024.02.01</td>
       <td>Attack(Robustness)</td>
       <td><a href='https://arxiv.org/abs/2402.00626' target='_blank'>Vision-LLMs Can Fool Themselves with Self-Generated Typographic Attacks</a></td>
+    </tr>
+    <tr>
+      <td>2023.12.12</td>
+      <td>Defense (text2img)</td>
+      <td><a href='https://arxiv.org/abs/2312.07130' target='_blank'>Divide-and-Conquer Attack: Harnessing the Power of LLM to Bypass Safety Filters of Text-to-Image Models</a></td>
     </tr>
     <tr>
       <td>2023.12.06</td>

@@ -1,6 +1,30 @@
 {
     "Main": [
         {
+            "Date": "2024.03.14",
+            "Notes": "Defense",
+            "Title": "AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting",
+            "Link": "https://arxiv.org/abs/2403.09513"
+        },
+        {
+            "Date": "2024.03.14",
+            "Notes": "Defense",
+            "Title": "Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation",
+            "Link": "https://arxiv.org/abs/2403.09572"
+        },
+        {
+            "Date": "2024.03.14",
+            "Notes": "Defense",
+            "Title": "The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?",
+            "Link": "https://arxiv.org/abs/2403.09037"
+        },
+        {
+            "Date": "2024.03.14",
+            "Notes": "Benchmark",
+            "Title": "AVIBench: Towards Evaluating the Robustness of Large Vision-Language Model on Adversarial Visual-Instructions",
+            "Link": "https://arxiv.org/abs/2403.09346"
+        },
+        {
             "Date": "2024.03.05",
             "Notes": "Attack",
             "Title": "ImgTrojan: Jailbreaking Vision-Language Models with ONE Image",
@@ -307,6 +331,12 @@
             "Notes": "Attack(Robustness)",
             "Title": "Vision-LLMs Can Fool Themselves with Self-Generated Typographic Attacks",
             "Link": "https://arxiv.org/abs/2402.00626"
+        },
+        {
+            "Date": "2023.12.12",
+            "Notes": "Defense (text2img)",
+            "Title": "Divide-and-Conquer Attack: Harnessing the Power of LLM to Bypass Safety Filters of Text-to-Image Models",
+            "Link": "https://arxiv.org/abs/2312.07130"
         },
         {
             "Date": "2023.12.06",
