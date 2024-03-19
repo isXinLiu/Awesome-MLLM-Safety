@@ -4,229 +4,352 @@
             "Date": "2024.03.14",
             "Notes": "Defense",
             "Title": "AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting",
-            "Link": "https://arxiv.org/abs/2403.09513"
+            "Link": "https://arxiv.org/abs/2403.09513",
+            "Author": "Yu Wang, Xiaogeng Liu, Yu Li, Muhao Chen, Chaowei Xiao",
+            "Affiliation": "Peking University | University of Wisconsin-Madison | International Digital Economy Academy | University of California, Davis",
+            "Code": "https://github.com/rain305f/AdaShield"
         },
         {
             "Date": "2024.03.14",
             "Notes": "Defense",
             "Title": "Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation",
-            "Link": "https://arxiv.org/abs/2403.09572"
+            "Link": "https://arxiv.org/abs/2403.09572",
+            "Author": "Yunhao Gou, Kai Chen, Zhili Liu, Lanqing Hong, Hang Xu, Zhenguo Li, Dit-Yan Yeung, James T. Kwok, Yu Zhang",
+            "Affiliation": "Southern University of Science and Technology | Hong Kong University of Science and Technology | Huawei Noah's Ark Lab | Peng Cheng Laboratory",
+            "Code": ""
         },
         {
             "Date": "2024.03.14",
             "Notes": "Defense",
             "Title": "The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?",
-            "Link": "https://arxiv.org/abs/2403.09037"
+            "Link": "https://arxiv.org/abs/2403.09037",
+            "Author": "Qinyu Zhao, Ming Xu, Kartik Gupta, Akshay Asthana, Liang Zheng, Stephen Gould",
+            "Affiliation": "The Australian National University | Seeing Machines Ltd",
+            "Code": "https://github.com/Qinyu-Allen-Zhao/LVLM-LP"
         },
         {
             "Date": "2024.03.14",
             "Notes": "Benchmark",
             "Title": "AVIBench: Towards Evaluating the Robustness of Large Vision-Language Model on Adversarial Visual-Instructions",
-            "Link": "https://arxiv.org/abs/2403.09346"
+            "Link": "https://arxiv.org/abs/2403.09346",
+            "Author": "Hao Zhang, Wenqi Shao, Hong Liu, Yongqiang Ma, Ping Luo, Yu Qiao, Kaipeng Zhang",
+            "Affiliation": "Xi'an Jiaotong University | Shanghai Artificial Intelligence Laboratory | Osaka University",
+            "Code": ""
+        },
+        {
+            "Date": "2024.03.14",
+            "Notes": "Attack",
+            "Title": "Images are Achilles' Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models",
+            "Link": "https://arxiv.org/abs/2403.09792",
+            "Author": "Yifan Li, Hangyu Guo, Kun Zhou, Wayne Xin Zhao, Ji-Rong Wen",
+            "Affiliation": "Renmin University | Beijing Key Laboratory of Big Data Management and Analysis Methods",
+            "Code": ""
         },
         {
             "Date": "2024.03.05",
             "Notes": "Attack",
             "Title": "ImgTrojan: Jailbreaking Vision-Language Models with ONE Image",
-            "Link": "https://arxiv.org/abs/2403.02910"
+            "Link": "https://arxiv.org/abs/2403.02910",
+            "Author": "Xijia Tao, Shuai Zhong, Lei Li, Qi Liu, Lingpeng Kong",
+            "Affiliation": "The University of Hong Kong",
+            "Code": "https://github.com/xijia-tao/ImgTrojan"
         },
         {
             "Date": "2024.02.20",
             "Notes": "Attack(Agent)",
             "Title": "The Wolf Within: Covert Injection of Malice into MLLM Societies via an MLLM Operative",
-            "Link": "https://arxiv.org/abs/2402.14859"
+            "Link": "https://arxiv.org/abs/2402.14859",
+            "Author": "Zhen Tan, Chengshuai Zhao, Raha Moraffah, Yifan Li, Yu Kong, Tianlong Chen, Huan Liu",
+            "Affiliation": "Arizona State University | Michigan State University | MIT",
+            "Code": "https://github.com/ChengshuaiZhao0/The-Wolf-Within"
         },
         {
             "Date": "2024.02.15",
             "Notes": "Attack",
             "Title": "Exploiting Alpha Transparency In Language And Vision-Based AI Systems",
-            "Link": "https://arxiv.org/abs/2402.09671"
+            "Link": "https://arxiv.org/abs/2402.09671",
+            "Author": "David Noever, Forrest McKee",
+            "Affiliation": "PeopleTec",
+            "Code": ""
         },
         {
             "Date": "2024.02.13",
             "Notes": "Attack",
             "Title": "Test-Time Backdoor Attacks on Multimodal Large Language Models",
-            "Link": "https://arxiv.org/abs/2402.08577"
+            "Link": "https://arxiv.org/abs/2402.08577",
+            "Author": "Dong Lu, Tianyu Pang, Chao Du, Qian Liu, Xianjun Yang, Min Lin",
+            "Affiliation": "Southern University of Science and Technology | Sea AI Lab | University of California",
+            "Code": "https://github.com/sail-sg/AnyDoor"
         },
         {
             "Date": "2024.02.13",
             "Notes": "Attack(Agent)",
             "Title": "Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast",
-            "Link": "https://arxiv.org/abs/2402.08567"
+            "Link": "https://arxiv.org/abs/2402.08567",
+            "Author": "Xiangming Gu, Xiaosen Zheng, Tianyu Pang, Chao Du, Qian Liu, Ye Wang, Jing Jiang, Min Lin",
+            "Affiliation": "Sea AI Lab | National University of Singapore | Singapore Management University",
+            "Code": "https://github.com/sail-sg/Agent-Smith"
         },
         {
             "Date": "2024.02.12",
             "Notes": "Insights",
             "Title": "Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models",
-            "Link": "https://arxiv.org/abs/2402.07865"
+            "Link": "https://arxiv.org/abs/2402.07865",
+            "Author": "Siddharth Karamcheti, Suraj Nair, Ashwin Balakrishna, Percy Liang, Thomas Kollar, Dorsa Sadigh",
+            "Affiliation": "Stanford | Toyota Research Institute",
+            "Code": "https://github.com/TRI-ML/prismatic-vlms"
         },
         {
             "Date": "2024.02.06",
             "Notes": "Benchmark",
             "Title": "HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal",
-            "Link": "https://arxiv.org/abs/2402.04249"
+            "Link": "https://arxiv.org/abs/2402.04249",
+            "Author": "Mantas Mazeika, Long Phan, Xuwang Yin, Andy Zou, Zifan Wang, Norman Mu, Elham Sakhaee, Nathaniel Li, Steven Basart, Bo Li, David Forsyth, Dan Hendrycks",
+            "Affiliation": "University of Illinois Urbana-Champaign | Center for AI Safety | Carnegie Mellon University | UC Berkeley | Microsoft",
+            "Code": "https://github.com/centerforaisafety/HarmBench"
         },
         {
             "Date": "2024.02.05",
             "Notes": "Attack",
             "Title": "Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models",
-            "Link": "https://arxiv.org/abs/2402.06659"
+            "Link": "https://arxiv.org/abs/2402.06659",
+            "Author": "Yuancheng Xu, Jiarui Yao, Manli Shu, Yanchao Sun, Zichu Wu, Ning Yu, Tom Goldstein, Furong Huang",
+            "Affiliation": "University of Maryland, College Park | JPMorgan AI Research | University of Waterloo | Salesforce Research",
+            "Code": "https://github.com/umd-huang-lab/VLM-Poisoning"
         },
         {
             "Date": "2024.02.05",
             "Notes": "Attack",
             "Title": "GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models",
-            "Link": "https://arxiv.org/abs/2402.03299"
+            "Link": "https://arxiv.org/abs/2402.03299",
+            "Author": "Haibo Jin, Ruoxi Chen, Andy Zhou, Jinyin Chen, Yang Zhang, Haohan Wang",
+            "Affiliation": "University of Illinois at Urbana-Champaign | Zhejiang University of Technology | Lapis Labs",
+            "Code": ""
         },
         {
             "Date": "2024.02.04",
             "Notes": "Attack",
             "Title": "Jailbreaking Attack against Multimodal Large Language Model",
-            "Link": "https://arxiv.org/abs/2402.02309"
+            "Link": "https://arxiv.org/abs/2402.02309",
+            "Author": "Zhenxing Niu, Haodong Ren, Xinbo Gao, Gang Hua, Rong Jin",
+            "Affiliation": "Xidian University | Wormpex AI Research | Meta",
+            "Code": ""
         },
         {
             "Date": "2024.02.03",
             "Notes": "Defense",
             "Title": "Safety Fine-Tuning at (Almost) No Cost: A Baseline for Vision Large Language Models",
-            "Link": "https://arxiv.org/abs/2402.02207"
+            "Link": "https://arxiv.org/abs/2402.02207",
+            "Author": "Yongshuo Zong, Ondrej Bohdal, Tingyang Yu, Yongxin Yang, Timothy Hospedales",
+            "Affiliation": "University of Edinburgh | EPFL",
+            "Code": "https://github.com/ys-zong/VLGuard"
         },
         {
             "Date": "2024.02.01",
             "Notes": "Survey",
             "Title": "Safety of Multimodal Large Language Models on Images and Text",
-            "Link": "https://arxiv.org/abs/2402.00357"
+            "Link": "https://arxiv.org/abs/2402.00357",
+            "Author": "Xin Liu, Yichen Zhu, Yunshi Lan, Chao Yang, Yu Qiao",
+            "Affiliation": "East China Normal University | Midea Group | Shanghai AI Laboratory",
+            "Code": ""
         },
         {
             "Date": "2024.01.23",
             "Notes": "Benchmark",
             "Title": "Red Teaming Visual Language Models",
-            "Link": "https://arxiv.org/abs/2401.12915"
+            "Link": "https://arxiv.org/abs/2401.12915",
+            "Author": "Mukai Li, Lei Li, Yuwei Yin, Masood Ahmed, Zhenguang Liu, Qi Liu",
+            "Affiliation": "The University of Hong Kong | Zhejiang University",
+            "Code": ""
         },
         {
             "Date": "2024.01.20",
             "Notes": "Defense",
             "Title": "InferAligner: Inference-Time Alignment for Harmlessness through Cross-Model Guidance",
-            "Link": "https://arxiv.org/abs/2401.11206"
+            "Link": "https://arxiv.org/abs/2401.11206",
+            "Author": "Pengyu Wang, Dong Zhang, Linyang Li, Chenkun Tan, Xinghao Wang, Ke Ren, Botian Jiang, Xipeng Qiu",
+            "Affiliation": "Fudan University",
+            "Code": "https://github.com/Jihuai-wpy/InferAligner"
         },
         {
             "Date": "2024.01.16",
             "Notes": "Attack",
             "Title": "An Image Is Worth 1000 Lies: Transferability of Adversarial Images across Prompts on Vision-Language Models",
-            "Link": "https://openreview.net/forum?id=nc5GgFAvtk"
+            "Link": "https://openreview.net/forum?id=nc5GgFAvtk",
+            "Author": "Haochen Luo, Jindong Gu, Fengyuan Liu, Philip Torr",
+            "Affiliation": "University of Oxford",
+            "Code": "https://github.com/Haochen-Luo/CroPA"
         },
         {
             "Date": "2024.01.05",
             "Notes": "Defense",
             "Title": "MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance",
-            "Link": "https://arxiv.org/abs/2401.02906"
+            "Link": "https://arxiv.org/abs/2401.02906",
+            "Author": "Renjie Pi, Tianyang Han, Yueqi Xie, Rui Pan, Qing Lian, Hanze Dong, Jipeng Zhang, Tong Zhang",
+            "Affiliation": "The Hong Kong University of Science and Technology | University of Illinois at Urbana-Champaign | The Hong Kong Polytechnic University",
+            "Code": "https://github.com/pipilurj/MLLM-protector"
         },
         {
             "Date": "2024.01.03",
             "Notes": "Benchmark",
             "Title": "GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse",
-            "Link": "https://arxiv.org/abs/2401.01523"
+            "Link": "https://arxiv.org/abs/2401.01523",
+            "Author": "Hongzhan Lin, Ziyang Luo, Bo Wang, Ruichao Yang, Jing Ma",
+            "Affiliation": "Hong Kong Baptist University",
+            "Code": ""
         },
         {
             "Date": "2023.12.13",
             "Notes": "Benchmark",
             "Title": "ToViLaG: Your Visual-Language Generative Model is Also An Evildoer",
-            "Link": "https://arxiv.org/abs/2312.11523v1"
+            "Link": "https://arxiv.org/abs/2312.11523v1",
+            "Author": "Xinpeng Wang, Xiaoyuan Yi, Han Jiang, Shanlin Zhou, Zhihua Wei, Xing Xie",
+            "Affiliation": "Tongji University | Microsoft Research Asia",
+            "Code": ""
         },
         {
             "Date": "2023.11.29",
             "Notes": "Attack, Benchmark",
-            "Title": "Query-Relevant Images Jailbreak Large Multi-Modal Models",
-            "Link": "https://arxiv.org/abs/2311.17600"
+            "Title": "MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models",
+            "Link": "https://arxiv.org/abs/2311.17600",
+            "Author": "Xin Liu, Yichen Zhu, Jindong Gu, Yunshi Lan, Chao Yang, Yu Qiao",
+            "Affiliation": "East China Normal University | Midea Group | Shanghai AI Laboratory",
+            "Code": "https://github.com/isXinLiu/MM-SafetyBench"
         },
         {
             "Date": "2023.11.27",
             "Notes": "Attack",
             "Title": "How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs",
-            "Link": "https://arxiv.org/abs/2311.16101"
+            "Link": "https://arxiv.org/abs/2311.16101",
+            "Author": "Haoqin Tu, Chenhang Cui, Zijun Wang, Yiyang Zhou, Bingchen Zhao, Junlin Han, Wangchunshu Zhou, Huaxiu Yao, Cihang Xie",
+            "Affiliation": "UC Santa Cruz | UNC-Chapel Hill | University of Edinburgh | University of Oxford | AIWaves Inc",
+            "Code": "https://github.com/UCSC-VLAA/vllm-safety-benchmark"
         },
         {
             "Date": "2023.11.24",
             "Notes": "Benchmark",
             "Title": "Large Language Models as Automated Aligners for benchmarking Vision-Language Models",
-            "Link": "https://arxiv.org/abs/2311.14580"
+            "Link": "https://arxiv.org/abs/2311.14580",
+            "Author": "Yuanfeng Ji, Chongjian Ge, Weikai Kong, Enze Xie, Zhengying Liu, Zhengguo Li, Ping Luo",
+            "Affiliation": "The University of Hong Kong | Huawei Noah's Ark Lab",
+            "Code": ""
         },
         {
             "Date": "2023.11.16",
             "Notes": "Defense, Benchmark",
             "Title": "DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback",
-            "Link": "https://arxiv.org/abs/2311.10081"
+            "Link": "https://arxiv.org/abs/2311.10081",
+            "Author": "Yangyi Chen, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran",
+            "Affiliation": "SRI International | University of Illinois Urbana-Champaign",
+            "Code": ""
         },
         {
             "Date": "2023.11.15",
             "Notes": "Attack, Defense",
             "Title": "Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts",
-            "Link": "https://arxiv.org/abs/2311.09127"
+            "Link": "https://arxiv.org/abs/2311.09127",
+            "Author": "Yuanwei Wu, Xiang Li, Yixin Liu, Pan Zhou, Lichao Sun",
+            "Affiliation": "Huazhong University of Science and Technology | Lehigh University",
+            "Code": ""
         },
         {
             "Date": "2023.11.09",
             "Notes": "Attack, Benchmark",
             "Title": "FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts",
-            "Link": "https://arxiv.org/abs/2311.05608"
+            "Link": "https://arxiv.org/abs/2311.05608",
+            "Author": "Yichen Gong, Delong Ran, Jinyuan Liu, Conglei Wang, Tianshuo Cong, Anyu Wang, Sisi Duan, Xiaoyun Wang",
+            "Affiliation": "Tsinghua University | Shandong University | Carnegie Mellon University",
+            "Code": "https://github.com/ThuCCSLab/FigStep"
         },
         {
             "Date": "2023.10.05",
             "Notes": "A finding",
             "Title": "Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!",
-            "Link": "https://arxiv.org/abs/2310.03693"
+            "Link": "https://arxiv.org/abs/2310.03693",
+            "Author": "Xiangyu Qi, Yi Zeng, Tinghao Xie, Pin-Yu Chen, Ruoxi Jia, Prateek Mittal, Peter Henderson",
+            "Affiliation": "Princeton University | Virginia Tech | IBM Research | Stanford University",
+            "Code": "https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety"
         },
         {
             "Date": "2023.10.04",
             "Notes": "Attack",
             "Title": "Misusing Tools in Large Language Models With Visual Adversarial Examples",
-            "Link": "https://arxiv.org/abs/2310.03185"
+            "Link": "https://arxiv.org/abs/2310.03185",
+            "Author": "Xiaohan Fu, Zihan Wang, Shuheng Li, Rajesh K. Gupta, Niloofar Mireshghallah, Taylor Berg-Kirkpatrick, Earlence Fernandes",
+            "Affiliation": "University of California San Diego | University of Washington",
+            "Code": ""
         },
         {
             "Date": "2023.10.03",
             "Notes": "Attack, Defense, Benchmark",
             "Title": "Can Language Models be Instructed to Protect Personal Information?",
-            "Link": "https://arxiv.org/abs/2310.02224"
+            "Link": "https://arxiv.org/abs/2310.02224",
+            "Author": "Yang Chen, Ethan Mendes, Sauvik Das, Wei Xu, Alan Ritter",
+            "Affiliation": "Georgia Institute of Technology | Carnegie Mellon University",
+            "Code": "https://github.com/ethanm88/llm-access-control"
         },
         {
             "Date": "2023.09.21",
             "Notes": "Attack",
             "Title": "How Robust is Google's Bard to Adversarial Image Attacks?",
-            "Link": "https://arxiv.org/abs/2309.11751"
+            "Link": "https://arxiv.org/abs/2309.11751",
+            "Author": "Yinpeng Dong, Huanran Chen, Jiawei Chen, Zhengwei Fang, Xiao Yang, Yichi Zhang, Yu Tian, Hang Su, Jun Zhu",
+            "Affiliation": "Tsinghua University | RealAI",
+            "Code": "https://github.com/thu-ml/Attack-Bard"
         },
         {
             "Date": "2023.09.01",
             "Notes": "Attack",
             "Title": "Image Hijacks: Adversarial Images can Control Generative Models at Runtime",
-            "Link": "https://arxiv.org/abs/2309.00236"
+            "Link": "https://arxiv.org/abs/2309.00236",
+            "Author": "Luke Bailey, Euan Ong, Stuart Russell, Scott Emmons",
+            "Affiliation": "UC Berkeley | Harvard University | University of Cambridge",
+            "Code": "https://github.com/euanong/image-hijacks"
         },
         {
             "Date": "2023.08.21",
             "Notes": "Attack",
             "Title": "On the Adversarial Robustness of Multi-Modal Foundation Models",
-            "Link": "https://arxiv.org/abs/2308.10741"
+            "Link": "https://arxiv.org/abs/2308.10741",
+            "Author": "Christian Schlarmann, Matthias Hein",
+            "Affiliation": "University of Tubingen",
+            "Code": ""
         },
         {
             "Date": "2023.07.26",
             "Notes": "Attack",
             "Title": "Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models",
-            "Link": "https://arxiv.org/abs/2307.14539"
+            "Link": "https://arxiv.org/abs/2307.14539",
+            "Author": "Erfan Shayegani, Yue Dong, Nael Abu-Ghazaleh",
+            "Affiliation": "University of California",
+            "Code": ""
         },
         {
             "Date": "2023.07.19",
             "Notes": "Attack",
             "Title": "Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs",
-            "Link": "https://arxiv.org/abs/2307.10490"
+            "Link": "https://arxiv.org/abs/2307.10490",
+            "Author": "Eugene Bagdasaryan, Tsung-Yin Hsieh, Ben Nassi, Vitaly Shmatikov",
+            "Affiliation": "Cornell Tech",
+            "Code": ""
         },
         {
             "Date": "2023.06.26",
             "Notes": "Attack",
             "Title": "Are aligned neural networks adversarially aligned?",
-            "Link": "https://arxiv.org/abs/2306.15447"
+            "Link": "https://arxiv.org/abs/2306.15447",
+            "Author": "Nicholas Carlini, Milad Nasr, Christopher A. Choquette-Choo, Matthew Jagielski, Irena Gao, Anas Awadalla, Pang Wei Koh, Daphne Ippolito, Katherine Lee, Florian Tramer, Ludwig Schmidt",
+            "Affiliation": "Google DeepMind | Stanford | University of Washington | ETH Zurich",
+            "Code": ""
         },
         {
             "Date": "2023.06.22",
             "Notes": "Attack",
             "Title": "Visual Adversarial Examples Jailbreak Aligned Large Language Models",
-            "Link": "https://arxiv.org/abs/2306.13213"
+            "Link": "https://arxiv.org/abs/2306.13213",
+            "Author": "Xiangyu Qi, Kaixuan Huang, Ashwinee Panda, Peter Henderson, Mengdi Wang, Prateek Mittal",
+            "Affiliation": "Princeton University | Stanford University",
+            "Code": "https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models"
         }
     ],
     "Other": [

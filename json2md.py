@@ -4,8 +4,8 @@ md_file = "README.md"
 import json
 
 prefix_str = (
-    "# MLLM-Safety-Collection\n"
-    "A collection of papers related to safety of Multimodal Large Language Models (MLLMs).\n\n"
+    "# Awesome-MLLM-Safety\n"
+    "A **continual** collection of papers related to safety of Multimodal Large Language Models (MLLMs).\n\n"
     "> If you find some important work missed, it would be super helpful to let me know (`isXinLiu@gmail.com`). Thanks!\n\n"
     "> If you find our survey useful for your research, please consider citing:\n\n"
     "```\n"
@@ -21,46 +21,22 @@ prefix_str = (
     "Taxonomy----safety of MLLMs on images and text:\n"
     "<img src='./assets/taxonomy.jpg' width='100%'>\n\n"
     "## Corresponding Papers (MLLM Safety)\n"
-    "<table>\n"
-    "  <tr>\n"
-    "    <th>Date</th>\n"
-    "    <th>Notes</th>\n"
-    "    <th>Title</th>\n"
-    "  </tr>\n"
-)
-
-mid_str = (
-    "</table>\n\n"
-    "## Others\n"
-    "<details>\n"
-    "  <summary>Others</summary>\n"
-    "  <table>\n"
-    "    <tr>\n"
-    "      <th>Date</th>\n"
-    "      <th>Notes</th>\n"
-    "      <th>Title</th>\n"
-    "    </tr>\n"
-)
-
-suffix_str = (
-    "  </table>\n"
-    "</details>\n"
 )
 
 paper_str_template = (
-    "  <tr>\n"
-    "    <td>{paper_date}</td>\n"
-    "    <td>{paper_notes}</td>\n"
-    "    <td><a href='{paper_link}' target='_blank'>{paper_title}</a></td>\n"
-    "  </tr>\n"
+    "* **{paper_title}**\n"
+    "  * {paper_author}\n"
+    "  * {paper_affiliation}\n"
+    "  * [{paper_date}] {paper_link}\n"
+    "  * {paper_notes}\n"
 )
 
-paper_str_template2 = (
-    "    <tr>\n"
-    "      <td>{paper_date}</td>\n"
-    "      <td>{paper_notes}</td>\n"
-    "      <td><a href='{paper_link}' target='_blank'>{paper_title}</a></td>\n"
-    "    </tr>\n"
+paper_str_template_code = (
+    "* **{paper_title}** | [Github]({paper_code_link})![Star](https://img.shields.io/github/stars/{paper_code_keyphrase}.svg?style=social&label=Star)\n"
+    "  * {paper_author}\n"
+    "  * {paper_affiliation}\n"
+    "  * [{paper_date}] {paper_link}\n"
+    "  * {paper_notes}\n"
 )
 
 if __name__ == "__main__":
@@ -71,20 +47,24 @@ if __name__ == "__main__":
     with open(md_file,"a+") as mf:
         mf.write(prefix_str)
         for paper in json_data['Main']:
-            paper_str = paper_str_template.format(
-                paper_date=paper['Date'],
-                paper_notes=paper['Notes'],
-                paper_link=paper['Link'],
-                paper_title=paper['Title']
-            )
+            if paper['Code'] == "":
+                paper_str = paper_str_template.format(
+                    paper_date=paper['Date'],
+                    paper_notes=paper['Notes'],
+                    paper_link=paper['Link'],
+                    paper_title=paper['Title'],
+                    paper_author=paper['Author'],
+                    paper_affiliation=paper['Affiliation'],
+                )
+            else:
+                paper_str = paper_str_template_code.format(
+                    paper_date=paper['Date'],
+                    paper_notes=paper['Notes'],
+                    paper_link=paper['Link'],
+                    paper_title=paper['Title'],
+                    paper_author=paper['Author'],
+                    paper_affiliation=paper['Affiliation'],
+                    paper_code_link=paper['Code'],
+                    paper_code_keyphrase=paper['Code'].split('github.com/')[1]
+                )
             mf.write(paper_str)
-        mf.write(mid_str)
-        for paper in json_data['Other']:
-            paper_str = paper_str_template2.format(
-                paper_date=paper['Date'],
-                paper_notes=paper['Notes'],
-                paper_link=paper['Link'],
-                paper_title=paper['Title']
-            )
-            mf.write(paper_str)
-        mf.write(suffix_str)

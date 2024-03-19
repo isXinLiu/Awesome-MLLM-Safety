@@ -1,5 +1,5 @@
-# MLLM-Safety-Collection
-A collection of papers related to safety of Multimodal Large Language Models (MLLMs).
+# Awesome-MLLM-Safety
+A **continual** collection of papers related to safety of Multimodal Large Language Models (MLLMs).
 
 > If you find some important work missed, it would be super helpful to let me know (`isXinLiu@gmail.com`). Thanks!
 
@@ -20,317 +20,198 @@ Taxonomy----safety of MLLMs on images and text:
 <img src='./assets/taxonomy.jpg' width='100%'>
 
 ## Corresponding Papers (MLLM Safety)
-<table>
-  <tr>
-    <th>Date</th>
-    <th>Notes</th>
-    <th>Title</th>
-  </tr>
-  <tr>
-    <td>2024.03.14</td>
-    <td>Defense</td>
-    <td><a href='https://arxiv.org/abs/2403.09513' target='_blank'>AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting</a></td>
-  </tr>
-  <tr>
-    <td>2024.03.14</td>
-    <td>Defense</td>
-    <td><a href='https://arxiv.org/abs/2403.09572' target='_blank'>Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation</a></td>
-  </tr>
-  <tr>
-    <td>2024.03.14</td>
-    <td>Defense</td>
-    <td><a href='https://arxiv.org/abs/2403.09037' target='_blank'>The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?</a></td>
-  </tr>
-  <tr>
-    <td>2024.03.14</td>
-    <td>Benchmark</td>
-    <td><a href='https://arxiv.org/abs/2403.09346' target='_blank'>AVIBench: Towards Evaluating the Robustness of Large Vision-Language Model on Adversarial Visual-Instructions</a></td>
-  </tr>
-  <tr>
-    <td>2024.03.05</td>
-    <td>Attack</td>
-    <td><a href='https://arxiv.org/abs/2403.02910' target='_blank'>ImgTrojan: Jailbreaking Vision-Language Models with ONE Image</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.20</td>
-    <td>Attack(Agent)</td>
-    <td><a href='https://arxiv.org/abs/2402.14859' target='_blank'>The Wolf Within: Covert Injection of Malice into MLLM Societies via an MLLM Operative</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.15</td>
-    <td>Attack</td>
-    <td><a href='https://arxiv.org/abs/2402.09671' target='_blank'>Exploiting Alpha Transparency In Language And Vision-Based AI Systems</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.13</td>
-    <td>Attack</td>
-    <td><a href='https://arxiv.org/abs/2402.08577' target='_blank'>Test-Time Backdoor Attacks on Multimodal Large Language Models</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.13</td>
-    <td>Attack(Agent)</td>
-    <td><a href='https://arxiv.org/abs/2402.08567' target='_blank'>Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.12</td>
-    <td>Insights</td>
-    <td><a href='https://arxiv.org/abs/2402.07865' target='_blank'>Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.06</td>
-    <td>Benchmark</td>
-    <td><a href='https://arxiv.org/abs/2402.04249' target='_blank'>HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.05</td>
-    <td>Attack</td>
-    <td><a href='https://arxiv.org/abs/2402.06659' target='_blank'>Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.05</td>
-    <td>Attack</td>
-    <td><a href='https://arxiv.org/abs/2402.03299' target='_blank'>GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.04</td>
-    <td>Attack</td>
-    <td><a href='https://arxiv.org/abs/2402.02309' target='_blank'>Jailbreaking Attack against Multimodal Large Language Model</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.03</td>
-    <td>Defense</td>
-    <td><a href='https://arxiv.org/abs/2402.02207' target='_blank'>Safety Fine-Tuning at (Almost) No Cost: A Baseline for Vision Large Language Models</a></td>
-  </tr>
-  <tr>
-    <td>2024.02.01</td>
-    <td>Survey</td>
-    <td><a href='https://arxiv.org/abs/2402.00357' target='_blank'>Safety of Multimodal Large Language Models on Images and Text</a></td>
-  </tr>
-  <tr>
-    <td>2024.01.23</td>
-    <td>Benchmark</td>
-    <td><a href='https://arxiv.org/abs/2401.12915' target='_blank'>Red Teaming Visual Language Models</a></td>
-  </tr>
-  <tr>
-    <td>2024.01.20</td>
-    <td>Defense</td>
-    <td><a href='https://arxiv.org/abs/2401.11206' target='_blank'>InferAligner: Inference-Time Alignment for Harmlessness through Cross-Model Guidance</a></td>
-  </tr>
-  <tr>
-    <td>2024.01.16</td>
-    <td>Attack</td>
-    <td><a href='https://openreview.net/forum?id=nc5GgFAvtk' target='_blank'>An Image Is Worth 1000 Lies: Transferability of Adversarial Images across Prompts on Vision-Language Models</a></td>
-  </tr>
-  <tr>
-    <td>2024.01.05</td>
-    <td>Defense</td>
-    <td><a href='https://arxiv.org/abs/2401.02906' target='_blank'>MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance</a></td>
-  </tr>
-  <tr>
-    <td>2024.01.03</td>
-    <td>Benchmark</td>
-    <td><a href='https://arxiv.org/abs/2401.01523' target='_blank'>GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse</a></td>
-  </tr>
-  <tr>
-    <td>2023.12.13</td>
-    <td>Benchmark</td>
-    <td><a href='https://arxiv.org/abs/2312.11523v1' target='_blank'>ToViLaG: Your Visual-Language Generative Model is Also An Evildoer</a></td>
-  </tr>
-  <tr>
-    <td>2023.11.29</td>
-    <td>Attack, Benchmark</td>
-    <td><a href='https://arxiv.org/abs/2311.17600' target='_blank'>Query-Relevant Images Jailbreak Large Multi-Modal Models</a></td>
-  </tr>
-  <tr>
-    <td>2023.11.27</td>
-    <td>Attack</td>
-    <td><a href='https://arxiv.org/abs/2311.16101' target='_blank'>How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs</a></td>
-  </tr>
-  <tr>
-    <td>2023.11.24</td>
-    <td>Benchmark</td>
-    <td><a href='https://arxiv.org/abs/2311.14580' target='_blank'>Large Language Models as Automated Aligners for benchmarking Vision-Language Models</a></td>
-  </tr>
-  <tr>
-    <td>2023.11.16</td>
-    <td>Defense, Benchmark</td>
-    <td><a href='https://arxiv.org/abs/2311.10081' target='_blank'>DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback</a></td>
-  </tr>
-  <tr>
-    <td>2023.11.15</td>
-    <td>Attack, Defense</td>
-    <td><a href='https://arxiv.org/abs/2311.09127' target='_blank'>Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts</a></td>
-  </tr>
-  <tr>
-    <td>2023.11.09</td>
-    <td>Attack, Benchmark</td>
-    <td><a href='https://arxiv.org/abs/2311.05608' target='_blank'>FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts</a></td>
-  </tr>
-  <tr>
-    <td>2023.10.05</td>
-    <td>A finding</td>
-    <td><a href='https://arxiv.org/abs/2310.03693' target='_blank'>Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!</a></td>
-  </tr>
-  <tr>
-    <td>2023.10.04</td>
-    <td>Attack</td>
-    <td><a href='https://arxiv.org/abs/2310.03185' target='_blank'>Misusing Tools in Large Language Models With Visual Adversarial Examples</a></td>
-  </tr>
-  <tr>
-    <td>2023.10.03</td>
-    <td>Attack, Defense, Benchmark</td>
-    <td><a href='https://arxiv.org/abs/2310.02224' target='_blank'>Can Language Models be Instructed to Protect Personal Information?</a></td>
-  </tr>
-  <tr>
-    <td>2023.09.21</td>
-    <td>Attack</td>
-    <td><a href='https://arxiv.org/abs/2309.11751' target='_blank'>How Robust is Google's Bard to Adversarial Image Attacks?</a></td>
-  </tr>
-  <tr>
-    <td>2023.09.01</td>
-    <td>Attack</td>
-    <td><a href='https://arxiv.org/abs/2309.00236' target='_blank'>Image Hijacks: Adversarial Images can Control Generative Models at Runtime</a></td>
-  </tr>
-  <tr>
-    <td>2023.08.21</td>
-    <td>Attack</td>
-    <td><a href='https://arxiv.org/abs/2308.10741' target='_blank'>On the Adversarial Robustness of Multi-Modal Foundation Models</a></td>
-  </tr>
-  <tr>
-    <td>2023.07.26</td>
-    <td>Attack</td>
-    <td><a href='https://arxiv.org/abs/2307.14539' target='_blank'>Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models</a></td>
-  </tr>
-  <tr>
-    <td>2023.07.19</td>
-    <td>Attack</td>
-    <td><a href='https://arxiv.org/abs/2307.10490' target='_blank'>Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs</a></td>
-  </tr>
-  <tr>
-    <td>2023.06.26</td>
-    <td>Attack</td>
-    <td><a href='https://arxiv.org/abs/2306.15447' target='_blank'>Are aligned neural networks adversarially aligned?</a></td>
-  </tr>
-  <tr>
-    <td>2023.06.22</td>
-    <td>Attack</td>
-    <td><a href='https://arxiv.org/abs/2306.13213' target='_blank'>Visual Adversarial Examples Jailbreak Aligned Large Language Models</a></td>
-  </tr>
-</table>
-
-## Others
-<details>
-  <summary>Others</summary>
-  <table>
-    <tr>
-      <th>Date</th>
-      <th>Notes</th>
-      <th>Title</th>
-    </tr>
-    <tr>
-      <td>2024.03.06</td>
-      <td>Real Application</td>
-      <td><a href='https://arxiv.org/abs/2403.03627' target='_blank'>Multimodal Large Language Models to Support Real-World Fact-Checking</a></td>
-    </tr>
-    <tr>
-      <td>2024.03.04</td>
-      <td>Defense(Robustness)</td>
-      <td><a href='https://arxiv.org/abs/2403.01849' target='_blank'>One Prompt Word is Enough to Boost Adversarial Robustness for Pre-trained Vision-Language Models</a></td>
-    </tr>
-    <tr>
-      <td>2024.03.04</td>
-      <td>Real Application</td>
-      <td><a href='https://arxiv.org/abs/2403.02253' target='_blank'>KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection</a></td>
-    </tr>
-    <tr>
-      <td>2024.03.03</td>
-      <td>Defense (text2img)</td>
-      <td><a href='https://arxiv.org/abs/2403.01446' target='_blank'>GuardT2I: Defending Text-to-Image Models from Adversarial Prompts</a></td>
-    </tr>
-    <tr>
-      <td>2024.02.29</td>
-      <td>Attack,Benchmark,Defense(Robustness)</td>
-      <td><a href='https://arxiv.org/abs/2402.19150' target='_blank'>Typographic Attacks in Large Multimodal Models Can be Alleviated by More Informative Prompts</a></td>
-    </tr>
-    <tr>
-      <td>2024.02.28</td>
-      <td>Attack(LLMs)</td>
-      <td><a href='https://arxiv.org/abs/2402.18649' target='_blank'>A New Era in LLM Security: Exploring Security Concerns in Real-World LLM-based Systems</a></td>
-    </tr>
-    <tr>
-      <td>2024.02.26</td>
-      <td>Attack(LLM-Driven Web Agents)</td>
-      <td><a href='https://arxiv.org/abs/2402.16965' target='_blank'>WIPI: A New Web Threat for LLM-Driven Web Agents</a></td>
-    </tr>
-    <tr>
-      <td>2024.02.26</td>
-      <td>Attack(LLMs)</td>
-      <td><a href='https://arxiv.org/abs/2402.16822' target='_blank'>Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts</a></td>
-    </tr>
-    <tr>
-      <td>2024.02.23</td>
-      <td>Safety in Human-AI Collaboration</td>
-      <td><a href='https://arxiv.org/abs/2402.15350' target='_blank'>Farsight: Fostering Responsible AI Awareness During AI Application Prototyping</a></td>
-    </tr>
-    <tr>
-      <td>2024.02.22</td>
-      <td>Attack(Robustness)</td>
-      <td><a href='https://arxiv.org/abs/2402.14899' target='_blank'>Stop Reasoning! When Multimodal LLMs with Chain-of-Thought Reasoning Meets Adversarial Images</a></td>
-    </tr>
-    <tr>
-      <td>2024.02.21</td>
-      <td>Attack(Robustness)</td>
-      <td><a href='https://arxiv.org/abs/2402.13851' target='_blank'>VL-Trojan: Multimodal Instruction Backdoor Attacks against Autoregressive Visual Language Models</a></td>
-    </tr>
-    <tr>
-      <td>2024.02.19</td>
-      <td>Defense(Robustness)</td>
-      <td><a href='https://arxiv.org/abs/2402.12336' target='_blank'>Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models</a></td>
-    </tr>
-    <tr>
-      <td>2024.02.15</td>
-      <td>Attack(Robustness;Robotics)</td>
-      <td><a href='https://arxiv.org/abs/2402.10340' target='_blank'>On the Safety Concerns of Deploying LLMs/VLMs in Robotics: Highlighting the Risks and Vulnerabilities</a></td>
-    </tr>
-    <tr>
-      <td>2024.02.08</td>
-      <td>Survey</td>
-      <td><a href='https://arxiv.org/abs/2402.05355' target='_blank'>A Survey on Safe Multi-Modal Learning System</a></td>
-    </tr>
-    <tr>
-      <td>2024.02.07</td>
-      <td>Benchmark(LLM)</td>
-      <td><a href='https://arxiv.org/abs/2402.05044' target='_blank'>SALAD-Bench: A Hierarchical and Comprehensive Safety Benchmark for Large Language Models</a></td>
-    </tr>
-    <tr>
-      <td>2024.02.02</td>
-      <td>Real Application</td>
-      <td><a href='https://arxiv.org/abs/2402.18587' target='_blank'>At the Dawn of Generative AI Era: A Tutorial-cum-Survey on New Frontiers in 6G Wireless Intelligence</a></td>
-    </tr>
-    <tr>
-      <td>2024.02.01</td>
-      <td>Attack(Robustness)</td>
-      <td><a href='https://arxiv.org/abs/2402.00626' target='_blank'>Vision-LLMs Can Fool Themselves with Self-Generated Typographic Attacks</a></td>
-    </tr>
-    <tr>
-      <td>2023.12.12</td>
-      <td>Defense (text2img)</td>
-      <td><a href='https://arxiv.org/abs/2312.07130' target='_blank'>Divide-and-Conquer Attack: Harnessing the Power of LLM to Bypass Safety Filters of Text-to-Image Models</a></td>
-    </tr>
-    <tr>
-      <td>2023.12.06</td>
-      <td>Attack(Robustness)</td>
-      <td><a href='https://arxiv.org/abs/2312.03777' target='_blank'>On the Robustness of Large Multimodal Models Against Image Adversarial Attacks</a></td>
-    </tr>
-    <tr>
-      <td>2023.12.07</td>
-      <td>Attack(Robustness)</td>
-      <td><a href='https://arxiv.org/abs/2312.07553' target='_blank'>Hijacking Context in Large Multi-modal Models</a></td>
-    </tr>
-    <tr>
-      <td>2023.12.04</td>
-      <td>Attack(Robustness)</td>
-      <td><a href='https://arxiv.org/abs/2312.01886' target='_blank'>InstructTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models</a></td>
-    </tr>
-  </table>
-</details>
+* **AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting** | [Github](https://github.com/rain305f/AdaShield)![Star](https://img.shields.io/github/stars/rain305f/AdaShield.svg?style=social&label=Star)
+  * Yu Wang, Xiaogeng Liu, Yu Li, Muhao Chen, Chaowei Xiao
+  * Peking University | University of Wisconsin-Madison | International Digital Economy Academy | University of California, Davis
+  * [2024.03.14] https://arxiv.org/abs/2403.09513
+  * Defense
+* **Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation**
+  * Yunhao Gou, Kai Chen, Zhili Liu, Lanqing Hong, Hang Xu, Zhenguo Li, Dit-Yan Yeung, James T. Kwok, Yu Zhang
+  * Southern University of Science and Technology | Hong Kong University of Science and Technology | Huawei Noah's Ark Lab | Peng Cheng Laboratory
+  * [2024.03.14] https://arxiv.org/abs/2403.09572
+  * Defense
+* **The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?** | [Github](https://github.com/Qinyu-Allen-Zhao/LVLM-LP)![Star](https://img.shields.io/github/stars/Qinyu-Allen-Zhao/LVLM-LP.svg?style=social&label=Star)
+  * Qinyu Zhao, Ming Xu, Kartik Gupta, Akshay Asthana, Liang Zheng, Stephen Gould
+  * The Australian National University | Seeing Machines Ltd
+  * [2024.03.14] https://arxiv.org/abs/2403.09037
+  * Defense
+* **AVIBench: Towards Evaluating the Robustness of Large Vision-Language Model on Adversarial Visual-Instructions**
+  * Hao Zhang, Wenqi Shao, Hong Liu, Yongqiang Ma, Ping Luo, Yu Qiao, Kaipeng Zhang
+  * Xi'an Jiaotong University | Shanghai Artificial Intelligence Laboratory | Osaka University
+  * [2024.03.14] https://arxiv.org/abs/2403.09346
+  * Benchmark
+* **Images are Achilles' Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models**
+  * Yifan Li, Hangyu Guo, Kun Zhou, Wayne Xin Zhao, Ji-Rong Wen
+  * Renmin University | Beijing Key Laboratory of Big Data Management and Analysis Methods
+  * [2024.03.14] https://arxiv.org/abs/2403.09792
+  * Attack
+* **ImgTrojan: Jailbreaking Vision-Language Models with ONE Image** | [Github](https://github.com/xijia-tao/ImgTrojan)![Star](https://img.shields.io/github/stars/xijia-tao/ImgTrojan.svg?style=social&label=Star)
+  * Xijia Tao, Shuai Zhong, Lei Li, Qi Liu, Lingpeng Kong
+  * The University of Hong Kong
+  * [2024.03.05] https://arxiv.org/abs/2403.02910
+  * Attack
+* **The Wolf Within: Covert Injection of Malice into MLLM Societies via an MLLM Operative** | [Github](https://github.com/ChengshuaiZhao0/The-Wolf-Within)![Star](https://img.shields.io/github/stars/ChengshuaiZhao0/The-Wolf-Within.svg?style=social&label=Star)
+  * Zhen Tan, Chengshuai Zhao, Raha Moraffah, Yifan Li, Yu Kong, Tianlong Chen, Huan Liu
+  * Arizona State University | Michigan State University | MIT
+  * [2024.02.20] https://arxiv.org/abs/2402.14859
+  * Attack(Agent)
+* **Exploiting Alpha Transparency In Language And Vision-Based AI Systems**
+  * David Noever, Forrest McKee
+  * PeopleTec
+  * [2024.02.15] https://arxiv.org/abs/2402.09671
+  * Attack
+* **Test-Time Backdoor Attacks on Multimodal Large Language Models** | [Github](https://github.com/sail-sg/AnyDoor)![Star](https://img.shields.io/github/stars/sail-sg/AnyDoor.svg?style=social&label=Star)
+  * Dong Lu, Tianyu Pang, Chao Du, Qian Liu, Xianjun Yang, Min Lin
+  * Southern University of Science and Technology | Sea AI Lab | University of California
+  * [2024.02.13] https://arxiv.org/abs/2402.08577
+  * Attack
+* **Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast** | [Github](https://github.com/sail-sg/Agent-Smith)![Star](https://img.shields.io/github/stars/sail-sg/Agent-Smith.svg?style=social&label=Star)
+  * Xiangming Gu, Xiaosen Zheng, Tianyu Pang, Chao Du, Qian Liu, Ye Wang, Jing Jiang, Min Lin
+  * Sea AI Lab | National University of Singapore | Singapore Management University
+  * [2024.02.13] https://arxiv.org/abs/2402.08567
+  * Attack(Agent)
+* **Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models** | [Github](https://github.com/TRI-ML/prismatic-vlms)![Star](https://img.shields.io/github/stars/TRI-ML/prismatic-vlms.svg?style=social&label=Star)
+  * Siddharth Karamcheti, Suraj Nair, Ashwin Balakrishna, Percy Liang, Thomas Kollar, Dorsa Sadigh
+  * Stanford | Toyota Research Institute
+  * [2024.02.12] https://arxiv.org/abs/2402.07865
+  * Insights
+* **HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal** | [Github](https://github.com/centerforaisafety/HarmBench)![Star](https://img.shields.io/github/stars/centerforaisafety/HarmBench.svg?style=social&label=Star)
+  * Mantas Mazeika, Long Phan, Xuwang Yin, Andy Zou, Zifan Wang, Norman Mu, Elham Sakhaee, Nathaniel Li, Steven Basart, Bo Li, David Forsyth, Dan Hendrycks
+  * University of Illinois Urbana-Champaign | Center for AI Safety | Carnegie Mellon University | UC Berkeley | Microsoft
+  * [2024.02.06] https://arxiv.org/abs/2402.04249
+  * Benchmark
+* **Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models** | [Github](https://github.com/umd-huang-lab/VLM-Poisoning)![Star](https://img.shields.io/github/stars/umd-huang-lab/VLM-Poisoning.svg?style=social&label=Star)
+  * Yuancheng Xu, Jiarui Yao, Manli Shu, Yanchao Sun, Zichu Wu, Ning Yu, Tom Goldstein, Furong Huang
+  * University of Maryland, College Park | JPMorgan AI Research | University of Waterloo | Salesforce Research
+  * [2024.02.05] https://arxiv.org/abs/2402.06659
+  * Attack
+* **GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models**
+  * Haibo Jin, Ruoxi Chen, Andy Zhou, Jinyin Chen, Yang Zhang, Haohan Wang
+  * University of Illinois at Urbana-Champaign | Zhejiang University of Technology | Lapis Labs
+  * [2024.02.05] https://arxiv.org/abs/2402.03299
+  * Attack
+* **Jailbreaking Attack against Multimodal Large Language Model**
+  * Zhenxing Niu, Haodong Ren, Xinbo Gao, Gang Hua, Rong Jin
+  * Xidian University | Wormpex AI Research | Meta
+  * [2024.02.04] https://arxiv.org/abs/2402.02309
+  * Attack
+* **Safety Fine-Tuning at (Almost) No Cost: A Baseline for Vision Large Language Models** | [Github](https://github.com/ys-zong/VLGuard)![Star](https://img.shields.io/github/stars/ys-zong/VLGuard.svg?style=social&label=Star)
+  * Yongshuo Zong, Ondrej Bohdal, Tingyang Yu, Yongxin Yang, Timothy Hospedales
+  * University of Edinburgh | EPFL
+  * [2024.02.03] https://arxiv.org/abs/2402.02207
+  * Defense
+* **Safety of Multimodal Large Language Models on Images and Text**
+  * Xin Liu, Yichen Zhu, Yunshi Lan, Chao Yang, Yu Qiao
+  * East China Normal University | Midea Group | Shanghai AI Laboratory
+  * [2024.02.01] https://arxiv.org/abs/2402.00357
+  * Survey
+* **Red Teaming Visual Language Models**
+  * Mukai Li, Lei Li, Yuwei Yin, Masood Ahmed, Zhenguang Liu, Qi Liu
+  * The University of Hong Kong | Zhejiang University
+  * [2024.01.23] https://arxiv.org/abs/2401.12915
+  * Benchmark
+* **InferAligner: Inference-Time Alignment for Harmlessness through Cross-Model Guidance** | [Github](https://github.com/Jihuai-wpy/InferAligner)![Star](https://img.shields.io/github/stars/Jihuai-wpy/InferAligner.svg?style=social&label=Star)
+  * Pengyu Wang, Dong Zhang, Linyang Li, Chenkun Tan, Xinghao Wang, Ke Ren, Botian Jiang, Xipeng Qiu
+  * Fudan University
+  * [2024.01.20] https://arxiv.org/abs/2401.11206
+  * Defense
+* **An Image Is Worth 1000 Lies: Transferability of Adversarial Images across Prompts on Vision-Language Models** | [Github](https://github.com/Haochen-Luo/CroPA)![Star](https://img.shields.io/github/stars/Haochen-Luo/CroPA.svg?style=social&label=Star)
+  * Haochen Luo, Jindong Gu, Fengyuan Liu, Philip Torr
+  * University of Oxford
+  * [2024.01.16] https://openreview.net/forum?id=nc5GgFAvtk
+  * Attack
+* **MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance** | [Github](https://github.com/pipilurj/MLLM-protector)![Star](https://img.shields.io/github/stars/pipilurj/MLLM-protector.svg?style=social&label=Star)
+  * Renjie Pi, Tianyang Han, Yueqi Xie, Rui Pan, Qing Lian, Hanze Dong, Jipeng Zhang, Tong Zhang
+  * The Hong Kong University of Science and Technology | University of Illinois at Urbana-Champaign | The Hong Kong Polytechnic University
+  * [2024.01.05] https://arxiv.org/abs/2401.02906
+  * Defense
+* **GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse**
+  * Hongzhan Lin, Ziyang Luo, Bo Wang, Ruichao Yang, Jing Ma
+  * Hong Kong Baptist University
+  * [2024.01.03] https://arxiv.org/abs/2401.01523
+  * Benchmark
+* **ToViLaG: Your Visual-Language Generative Model is Also An Evildoer**
+  * Xinpeng Wang, Xiaoyuan Yi, Han Jiang, Shanlin Zhou, Zhihua Wei, Xing Xie
+  * Tongji University | Microsoft Research Asia
+  * [2023.12.13] https://arxiv.org/abs/2312.11523v1
+  * Benchmark
+* **MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models** | [Github](https://github.com/isXinLiu/MM-SafetyBench)![Star](https://img.shields.io/github/stars/isXinLiu/MM-SafetyBench.svg?style=social&label=Star)
+  * Xin Liu, Yichen Zhu, Jindong Gu, Yunshi Lan, Chao Yang, Yu Qiao
+  * East China Normal University | Midea Group | Shanghai AI Laboratory
+  * [2023.11.29] https://arxiv.org/abs/2311.17600
+  * Attack, Benchmark
+* **How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs** | [Github](https://github.com/UCSC-VLAA/vllm-safety-benchmark)![Star](https://img.shields.io/github/stars/UCSC-VLAA/vllm-safety-benchmark.svg?style=social&label=Star)
+  * Haoqin Tu, Chenhang Cui, Zijun Wang, Yiyang Zhou, Bingchen Zhao, Junlin Han, Wangchunshu Zhou, Huaxiu Yao, Cihang Xie
+  * UC Santa Cruz | UNC-Chapel Hill | University of Edinburgh | University of Oxford | AIWaves Inc
+  * [2023.11.27] https://arxiv.org/abs/2311.16101
+  * Attack
+* **Large Language Models as Automated Aligners for benchmarking Vision-Language Models**
+  * Yuanfeng Ji, Chongjian Ge, Weikai Kong, Enze Xie, Zhengying Liu, Zhengguo Li, Ping Luo
+  * The University of Hong Kong | Huawei Noah's Ark Lab
+  * [2023.11.24] https://arxiv.org/abs/2311.14580
+  * Benchmark
+* **DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback**
+  * Yangyi Chen, Karan Sikka, Michael Cogswell, Heng Ji, Ajay Divakaran
+  * SRI International | University of Illinois Urbana-Champaign
+  * [2023.11.16] https://arxiv.org/abs/2311.10081
+  * Defense, Benchmark
+* **Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts**
+  * Yuanwei Wu, Xiang Li, Yixin Liu, Pan Zhou, Lichao Sun
+  * Huazhong University of Science and Technology | Lehigh University
+  * [2023.11.15] https://arxiv.org/abs/2311.09127
+  * Attack, Defense
+* **FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts** | [Github](https://github.com/ThuCCSLab/FigStep)![Star](https://img.shields.io/github/stars/ThuCCSLab/FigStep.svg?style=social&label=Star)
+  * Yichen Gong, Delong Ran, Jinyuan Liu, Conglei Wang, Tianshuo Cong, Anyu Wang, Sisi Duan, Xiaoyun Wang
+  * Tsinghua University | Shandong University | Carnegie Mellon University
+  * [2023.11.09] https://arxiv.org/abs/2311.05608
+  * Attack, Benchmark
+* **Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!** | [Github](https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety)![Star](https://img.shields.io/github/stars/LLM-Tuning-Safety/LLMs-Finetuning-Safety.svg?style=social&label=Star)
+  * Xiangyu Qi, Yi Zeng, Tinghao Xie, Pin-Yu Chen, Ruoxi Jia, Prateek Mittal, Peter Henderson
+  * Princeton University | Virginia Tech | IBM Research | Stanford University
+  * [2023.10.05] https://arxiv.org/abs/2310.03693
+  * A finding
+* **Misusing Tools in Large Language Models With Visual Adversarial Examples**
+  * Xiaohan Fu, Zihan Wang, Shuheng Li, Rajesh K. Gupta, Niloofar Mireshghallah, Taylor Berg-Kirkpatrick, Earlence Fernandes
+  * University of California San Diego | University of Washington
+  * [2023.10.04] https://arxiv.org/abs/2310.03185
+  * Attack
+* **Can Language Models be Instructed to Protect Personal Information?** | [Github](https://github.com/ethanm88/llm-access-control)![Star](https://img.shields.io/github/stars/ethanm88/llm-access-control.svg?style=social&label=Star)
+  * Yang Chen, Ethan Mendes, Sauvik Das, Wei Xu, Alan Ritter
+  * Georgia Institute of Technology | Carnegie Mellon University
+  * [2023.10.03] https://arxiv.org/abs/2310.02224
+  * Attack, Defense, Benchmark
+* **How Robust is Google's Bard to Adversarial Image Attacks?** | [Github](https://github.com/thu-ml/Attack-Bard)![Star](https://img.shields.io/github/stars/thu-ml/Attack-Bard.svg?style=social&label=Star)
+  * Yinpeng Dong, Huanran Chen, Jiawei Chen, Zhengwei Fang, Xiao Yang, Yichi Zhang, Yu Tian, Hang Su, Jun Zhu
+  * Tsinghua University | RealAI
+  * [2023.09.21] https://arxiv.org/abs/2309.11751
+  * Attack
+* **Image Hijacks: Adversarial Images can Control Generative Models at Runtime** | [Github](https://github.com/euanong/image-hijacks)![Star](https://img.shields.io/github/stars/euanong/image-hijacks.svg?style=social&label=Star)
+  * Luke Bailey, Euan Ong, Stuart Russell, Scott Emmons
+  * UC Berkeley | Harvard University | University of Cambridge
+  * [2023.09.01] https://arxiv.org/abs/2309.00236
+  * Attack
+* **On the Adversarial Robustness of Multi-Modal Foundation Models**
+  * Christian Schlarmann, Matthias Hein
+  * University of Tubingen
+  * [2023.08.21] https://arxiv.org/abs/2308.10741
+  * Attack
+* **Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models**
+  * Erfan Shayegani, Yue Dong, Nael Abu-Ghazaleh
+  * University of California
+  * [2023.07.26] https://arxiv.org/abs/2307.14539
+  * Attack
+* **Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs**
+  * Eugene Bagdasaryan, Tsung-Yin Hsieh, Ben Nassi, Vitaly Shmatikov
+  * Cornell Tech
+  * [2023.07.19] https://arxiv.org/abs/2307.10490
+  * Attack
+* **Are aligned neural networks adversarially aligned?**
+  * Nicholas Carlini, Milad Nasr, Christopher A. Choquette-Choo, Matthew Jagielski, Irena Gao, Anas Awadalla, Pang Wei Koh, Daphne Ippolito, Katherine Lee, Florian Tramer, Ludwig Schmidt
+  * Google DeepMind | Stanford | University of Washington | ETH Zurich
+  * [2023.06.26] https://arxiv.org/abs/2306.15447
+  * Attack
+* **Visual Adversarial Examples Jailbreak Aligned Large Language Models** | [Github](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models)![Star](https://img.shields.io/github/stars/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models.svg?style=social&label=Star)
+  * Xiangyu Qi, Kaixuan Huang, Ashwinee Panda, Peter Henderson, Mengdi Wang, Prateek Mittal
+  * Princeton University | Stanford University
+  * [2023.06.22] https://arxiv.org/abs/2306.13213
+  * Attack
