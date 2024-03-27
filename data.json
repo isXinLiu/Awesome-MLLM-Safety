@@ -1,6 +1,24 @@
 {
     "Main": [
         {
+            "Date": "2024.03.26",
+            "Notes": "Benchmark",
+            "Title": "Assessment of Multimodal Large Language Models in Alignment with Human Values",
+            "Link": "https://arxiv.org/abs/2403.17830",
+            "Author": "Zhelun Shi, Zhipin Wang, Hongxing Fan, Zaibin Zhang, Lijun Li, Yongting Zhang, Zhenfei Yin, Lu Sheng, Yu Qiao, Jing Shao",
+            "Affiliation": "Shanghai Artificial Intelligence Laboratory | School of Software, Beihang University | Dalian University of Technology | University of Science and Technology of China | The University of Sydney",
+            "Code": "https://github.com/OpenGVLab/LAMM"
+        },
+        {
+            "Date": "2024.03.26",
+            "Notes": "Analysis",
+            "Title": "Evaluating the Efficacy of Prompt-Engineered Large Multimodal Models Versus Fine-Tuned Vision Transformers in Image-Based Security Applications",
+            "Link": "https://arxiv.org/abs/2403.17787",
+            "Author": "Fouad Trad, Ali Chehab",
+            "Affiliation": "American University of Beirut",
+            "Code": ""
+        },
+        {
             "Date": "2024.03.14",
             "Notes": "Defense",
             "Title": "AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting",

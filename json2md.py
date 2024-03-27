@@ -32,7 +32,7 @@ paper_str_template = (
 )
 
 paper_str_template_code = (
-    "* **{paper_title}** | [Github]({paper_code_link})![Star](https://img.shields.io/github/stars/{paper_code_keyphrase}.svg?style=social&label=Star)\n"
+    "* **{paper_title}** | [Github]({paper_code_link}) ![Star](https://img.shields.io/github/stars/{paper_code_keyphrase}.svg?style=social&label=Star)\n"
     "  * {paper_author}\n"
     "  * {paper_affiliation}\n"
     "  * [{paper_date}] {paper_link}\n"
