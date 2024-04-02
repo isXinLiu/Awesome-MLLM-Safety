@@ -1,6 +1,24 @@
 {
     "Main": [
         {
+            "Date": "2024.03.30",
+            "Notes": "Attack",
+            "Title": "Composite Backdoor Attacks Against Large Language Models",
+            "Link": "https://arxiv.org/abs/2310.07676",
+            "Author": "Hai Huang, Zhengyu Zhao, Michael Backes, Yun Shen, Yang Zhang",
+            "Affiliation": "CISPA Helmholtz Center for Information Security | Xi'an Jiaotong University | NetApp",
+            "Code": "https://github.com/MiracleHH/CBA"
+        },
+        {
+            "Date": "2024.03.29",
+            "Notes": "Analysis",
+            "Title": "Uncovering Bias in Large Vision-Language Models with Counterfactuals",
+            "Link": "https://arxiv.org/abs/2404.00166",
+            "Author": "Phillip Howard, Anahita Bhiwandiwalla, Kathleen C. Fraser, Svetlana Kiritchenko",
+            "Affiliation": "Intel Labs | National Research Council Canada",
+            "Code": ""
+        },
+        {
             "Date": "2024.03.26",
             "Notes": "Benchmark",
             "Title": "Assessment of Multimodal Large Language Models in Alignment with Human Values",
@@ -155,7 +173,7 @@
         },
         {
             "Date": "2024.02.03",
-            "Notes": "Defense",
+            "Notes": "Defense, Benchmark",
             "Title": "Safety Fine-Tuning at (Almost) No Cost: A Baseline for Vision Large Language Models",
             "Link": "https://arxiv.org/abs/2402.02207",
             "Author": "Yongshuo Zong, Ondrej Bohdal, Tingyang Yu, Yongxin Yang, Timothy Hospedales",

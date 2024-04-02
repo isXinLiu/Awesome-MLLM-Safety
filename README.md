@@ -61,6 +61,11 @@ Taxonomy----safety of MLLMs on images and text:
   * University of Illinois Urbana-Champaign | Center for AI Safety | Carnegie Mellon University | UC Berkeley | Microsoft
   * [2024.02.06] https://arxiv.org/abs/2402.04249
   * Benchmark
+* **Safety Fine-Tuning at (Almost) No Cost: A Baseline for Vision Large Language Models** | [Github](https://github.com/ys-zong/VLGuard) ![Star](https://img.shields.io/github/stars/ys-zong/VLGuard.svg?style=social&label=Star)
+  * Yongshuo Zong, Ondrej Bohdal, Tingyang Yu, Yongxin Yang, Timothy Hospedales
+  * University of Edinburgh | EPFL
+  * [2024.02.03] https://arxiv.org/abs/2402.02207
+  * Defense, Benchmark
 * **Red Teaming Visual Language Models**
   * Mukai Li, Lei Li, Yuwei Yin, Masood Ahmed, Zhenguang Liu, Qi Liu
   * The University of Hong Kong | Zhejiang University
@@ -107,6 +112,11 @@ Taxonomy----safety of MLLMs on images and text:
   * [2023.10.03] https://arxiv.org/abs/2310.02224
   * Attack, Defense, Benchmark
 ## Attack
+* **Composite Backdoor Attacks Against Large Language Models** | [Github](https://github.com/MiracleHH/CBA) ![Star](https://img.shields.io/github/stars/MiracleHH/CBA.svg?style=social&label=Star)
+  * Hai Huang, Zhengyu Zhao, Michael Backes, Yun Shen, Yang Zhang
+  * CISPA Helmholtz Center for Information Security | Xi'an Jiaotong University | NetApp
+  * [2024.03.30] https://arxiv.org/abs/2310.07676
+  * Attack
 * **Images are Achilles' Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models**
   * Yifan Li, Hangyu Guo, Kun Zhou, Wayne Xin Zhao, Ji-Rong Wen
   * Renmin University | Beijing Key Laboratory of Big Data Management and Analysis Methods
@@ -242,7 +252,7 @@ Taxonomy----safety of MLLMs on images and text:
   * Yongshuo Zong, Ondrej Bohdal, Tingyang Yu, Yongxin Yang, Timothy Hospedales
   * University of Edinburgh | EPFL
   * [2024.02.03] https://arxiv.org/abs/2402.02207
-  * Defense
+  * Defense, Benchmark
 * **InferAligner: Inference-Time Alignment for Harmlessness through Cross-Model Guidance** | [Github](https://github.com/Jihuai-wpy/InferAligner) ![Star](https://img.shields.io/github/stars/Jihuai-wpy/InferAligner.svg?style=social&label=Star)
   * Pengyu Wang, Dong Zhang, Linyang Li, Chenkun Tan, Xinghao Wang, Ke Ren, Botian Jiang, Xipeng Qiu
   * Fudan University
@@ -269,6 +279,11 @@ Taxonomy----safety of MLLMs on images and text:
   * [2023.10.03] https://arxiv.org/abs/2310.02224
   * Attack, Defense, Benchmark
 ## Other
+* **Uncovering Bias in Large Vision-Language Models with Counterfactuals**
+  * Phillip Howard, Anahita Bhiwandiwalla, Kathleen C. Fraser, Svetlana Kiritchenko
+  * Intel Labs | National Research Council Canada
+  * [2024.03.29] https://arxiv.org/abs/2404.00166
+  * Analysis
 * **Evaluating the Efficacy of Prompt-Engineered Large Multimodal Models Versus Fine-Tuned Vision Transformers in Image-Based Security Applications**
   * Fouad Trad, Ali Chehab
   * American University of Beirut
