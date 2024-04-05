@@ -1,6 +1,24 @@
 {
     "Main": [
         {
+            "Date": "2024.04.04",
+            "Notes": "Benchmark",
+            "Title": "Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?",
+            "Link": "https://arxiv.org/abs/2404.03411",
+            "Author": "Shuo Chen, Zhen Han, Bailan He, Zifeng Ding, Wenqian Yu, Philip Torr, Volker Tresp, Jindong Gu",
+            "Affiliation": "LMU Munich | University of Oxford | Siemens AG | MCML | Wuhan University",
+            "Code": ""
+        },
+        {
+            "Date": "2024.04.03",
+            "Notes": "Benchmark",
+            "Title": "JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks",
+            "Link": "https://arxiv.org/abs/2404.03027",
+            "Author": "Weidi Luo, Siyuan Ma, Xiaogeng Liu, Xiaoyu Guo, Chaowei Xiao",
+            "Affiliation": "The Ohio State University | University of Wisconsin-Madison",
+            "Code": "https://github.com/EddyLuo1232/JailBreakV_28K"
+        },
+        {
             "Date": "2024.03.30",
             "Notes": "Attack",
             "Title": "Composite Backdoor Attacks Against Large Language Models",
@@ -52,7 +70,7 @@
             "Link": "https://arxiv.org/abs/2403.09572",
             "Author": "Yunhao Gou, Kai Chen, Zhili Liu, Lanqing Hong, Hang Xu, Zhenguo Li, Dit-Yan Yeung, James T. Kwok, Yu Zhang",
             "Affiliation": "Southern University of Science and Technology | Hong Kong University of Science and Technology | Huawei Noah's Ark Lab | Peng Cheng Laboratory",
-            "Code": ""
+            "Code": "https://github.com/gyhdog99/ECSO"
         },
         {
             "Date": "2024.03.14",

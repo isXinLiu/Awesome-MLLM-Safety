@@ -4,7 +4,7 @@ md_file = "README.md"
 import json
 
 prefix_str = (
-    "# Awesome-MLLM-Safety\n"
+    "# Awesome-MLLM-Safety [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)\n"
     "A **continual** collection of papers related to safety of Multimodal Large Language Models (MLLMs).\n\n"
     "<details>\n"
     "  <summary>The scope of our collection.</summary>\n"

@@ -1,4 +1,4 @@
-# Awesome-MLLM-Safety
+# Awesome-MLLM-Safety [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A **continual** collection of papers related to safety of Multimodal Large Language Models (MLLMs).
 
 <details>
@@ -46,6 +46,16 @@ Taxonomy----safety of MLLMs on images and text:
 ---
 
 ## Benchmark
+* **Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?**
+  * Shuo Chen, Zhen Han, Bailan He, Zifeng Ding, Wenqian Yu, Philip Torr, Volker Tresp, Jindong Gu
+  * LMU Munich | University of Oxford | Siemens AG | MCML | Wuhan University
+  * [2024.04.04] https://arxiv.org/abs/2404.03411
+  * Benchmark
+* **JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks** | [Github](https://github.com/EddyLuo1232/JailBreakV_28K) ![Star](https://img.shields.io/github/stars/EddyLuo1232/JailBreakV_28K.svg?style=social&label=Star)
+  * Weidi Luo, Siyuan Ma, Xiaogeng Liu, Xiaoyu Guo, Chaowei Xiao
+  * The Ohio State University | University of Wisconsin-Madison
+  * [2024.04.03] https://arxiv.org/abs/2404.03027
+  * Benchmark
 * **Assessment of Multimodal Large Language Models in Alignment with Human Values** | [Github](https://github.com/OpenGVLab/LAMM) ![Star](https://img.shields.io/github/stars/OpenGVLab/LAMM.svg?style=social&label=Star)
   * Zhelun Shi, Zhipin Wang, Hongxing Fan, Zaibin Zhang, Lijun Li, Yongting Zhang, Zhenfei Yin, Lu Sheng, Yu Qiao, Jing Shao
   * Shanghai Artificial Intelligence Laboratory | School of Software, Beihang University | Dalian University of Technology | University of Science and Technology of China | The University of Sydney
@@ -238,7 +248,7 @@ Taxonomy----safety of MLLMs on images and text:
   * Peking University | University of Wisconsin-Madison | International Digital Economy Academy | University of California, Davis
   * [2024.03.14] https://arxiv.org/abs/2403.09513
   * Defense
-* **Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation**
+* **Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation** | [Github](https://github.com/gyhdog99/ECSO) ![Star](https://img.shields.io/github/stars/gyhdog99/ECSO.svg?style=social&label=Star)
   * Yunhao Gou, Kai Chen, Zhili Liu, Lanqing Hong, Hang Xu, Zhenguo Li, Dit-Yan Yeung, James T. Kwok, Yu Zhang
   * Southern University of Science and Technology | Hong Kong University of Science and Technology | Huawei Noah's Ark Lab | Peng Cheng Laboratory
   * [2024.03.14] https://arxiv.org/abs/2403.09572
