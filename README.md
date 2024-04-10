@@ -289,6 +289,11 @@ Taxonomy----safety of MLLMs on images and text:
   * [2023.10.03] https://arxiv.org/abs/2310.02224
   * Attack, Defense, Benchmark
 ## Other
+* **Unbridled Icarus: A Survey of the Potential Perils of Image Inputs in Multimodal Large Language Model Security**
+  * Yihe Fan, Yuxin Cao, Ziyu Zhao, Ziyao Liu, Shaofeng Li
+  * TongJi University | Tsinghua University | Beijing University of Technology | Nanyang Technological University | Peng Cheng Laboratory
+  * [2024.04.08] https://arxiv.org/abs/2404.05264
+  * Survey
 * **Uncovering Bias in Large Vision-Language Models with Counterfactuals**
   * Phillip Howard, Anahita Bhiwandiwalla, Kathleen C. Fraser, Svetlana Kiritchenko
   * Intel Labs | National Research Council Canada

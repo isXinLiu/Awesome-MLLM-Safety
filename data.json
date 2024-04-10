@@ -1,6 +1,15 @@
 {
     "Main": [
         {
+            "Date": "2024.04.08",
+            "Notes": "Survey",
+            "Title": "Unbridled Icarus: A Survey of the Potential Perils of Image Inputs in Multimodal Large Language Model Security",
+            "Link": "https://arxiv.org/abs/2404.05264",
+            "Author": "Yihe Fan, Yuxin Cao, Ziyu Zhao, Ziyao Liu, Shaofeng Li",
+            "Affiliation": "TongJi University | Tsinghua University | Beijing University of Technology | Nanyang Technological University | Peng Cheng Laboratory",
+            "Code": ""
+        },
+        {
             "Date": "2024.04.04",
             "Notes": "Benchmark",
             "Title": "Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?",
