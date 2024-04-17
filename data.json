@@ -1,6 +1,15 @@
 {
     "Main": [
         {
+            "Date": "2024.04.16",
+            "Notes": "Benchmark",
+            "Title": "Private Attribute Inference from Images with Vision-Language Models",
+            "Link": "https://arxiv.org/abs/2404.10618",
+            "Author": "Batuhan Tömekçe, Mark Vero, Robin Staab, Martin Vechev",
+            "Affiliation": "ETH Zurich",
+            "Code": ""
+        },
+        {
             "Date": "2024.04.08",
             "Notes": "Survey",
             "Title": "Unbridled Icarus: A Survey of the Potential Perils of Image Inputs in Multimodal Large Language Model Security",

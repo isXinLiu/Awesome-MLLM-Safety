@@ -39,13 +39,18 @@ Taxonomy----safety of MLLMs on images and text:
 <img src='./assets/taxonomy.jpg' width='100%'>
 
 **Table of Contents**
-- [Benchmark(Evaluation)](#Benchmark)
+- [Evaluation](#Evaluation)
 - [Attack](#Attack)
 - [Defense](#Defense)
 - [Other](#Other)
 ---
 
-## Benchmark
+## Evaluation
+* **Private Attribute Inference from Images with Vision-Language Models**
+  * Batuhan Tömekçe, Mark Vero, Robin Staab, Martin Vechev
+  * ETH Zurich
+  * [2024.04.16] https://arxiv.org/abs/2404.10618
+  * Benchmark
 * **Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?**
   * Shuo Chen, Zhen Han, Bailan He, Zifeng Ding, Wenqian Yu, Philip Torr, Volker Tresp, Jindong Gu
   * LMU Munich | University of Oxford | Siemens AG | MCML | Wuhan University
@@ -56,16 +61,31 @@ Taxonomy----safety of MLLMs on images and text:
   * The Ohio State University | University of Wisconsin-Madison
   * [2024.04.03] https://arxiv.org/abs/2404.03027
   * Benchmark
+* **Uncovering Bias in Large Vision-Language Models with Counterfactuals**
+  * Phillip Howard, Anahita Bhiwandiwalla, Kathleen C. Fraser, Svetlana Kiritchenko
+  * Intel Labs | National Research Council Canada
+  * [2024.03.29] https://arxiv.org/abs/2404.00166
+  * Analysis
 * **Assessment of Multimodal Large Language Models in Alignment with Human Values** | [Github](https://github.com/OpenGVLab/LAMM) ![Star](https://img.shields.io/github/stars/OpenGVLab/LAMM.svg?style=social&label=Star)
   * Zhelun Shi, Zhipin Wang, Hongxing Fan, Zaibin Zhang, Lijun Li, Yongting Zhang, Zhenfei Yin, Lu Sheng, Yu Qiao, Jing Shao
   * Shanghai Artificial Intelligence Laboratory | School of Software, Beihang University | Dalian University of Technology | University of Science and Technology of China | The University of Sydney
   * [2024.03.26] https://arxiv.org/abs/2403.17830
   * Benchmark
+* **Evaluating the Efficacy of Prompt-Engineered Large Multimodal Models Versus Fine-Tuned Vision Transformers in Image-Based Security Applications**
+  * Fouad Trad, Ali Chehab
+  * American University of Beirut
+  * [2024.03.26] https://arxiv.org/abs/2403.17787
+  * Analysis
 * **AVIBench: Towards Evaluating the Robustness of Large Vision-Language Model on Adversarial Visual-Instructions**
   * Hao Zhang, Wenqi Shao, Hong Liu, Yongqiang Ma, Ping Luo, Yu Qiao, Kaipeng Zhang
   * Xi'an Jiaotong University | Shanghai Artificial Intelligence Laboratory | Osaka University
   * [2024.03.14] https://arxiv.org/abs/2403.09346
   * Benchmark
+* **Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models** | [Github](https://github.com/TRI-ML/prismatic-vlms) ![Star](https://img.shields.io/github/stars/TRI-ML/prismatic-vlms.svg?style=social&label=Star)
+  * Siddharth Karamcheti, Suraj Nair, Ashwin Balakrishna, Percy Liang, Thomas Kollar, Dorsa Sadigh
+  * Stanford | Toyota Research Institute
+  * [2024.02.12] https://arxiv.org/abs/2402.07865
+  * Insights
 * **HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal** | [Github](https://github.com/centerforaisafety/HarmBench) ![Star](https://img.shields.io/github/stars/centerforaisafety/HarmBench.svg?style=social&label=Star)
   * Mantas Mazeika, Long Phan, Xuwang Yin, Andy Zou, Zifan Wang, Norman Mu, Elham Sakhaee, Nathaniel Li, Steven Basart, Bo Li, David Forsyth, Dan Hendrycks
   * University of Illinois Urbana-Champaign | Center for AI Safety | Carnegie Mellon University | UC Berkeley | Microsoft
@@ -116,6 +136,11 @@ Taxonomy----safety of MLLMs on images and text:
   * Tsinghua University | Shandong University | Carnegie Mellon University
   * [2023.11.09] https://arxiv.org/abs/2311.05608
   * Attack, Benchmark
+* **Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!** | [Github](https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety) ![Star](https://img.shields.io/github/stars/LLM-Tuning-Safety/LLMs-Finetuning-Safety.svg?style=social&label=Star)
+  * Xiangyu Qi, Yi Zeng, Tinghao Xie, Pin-Yu Chen, Ruoxi Jia, Prateek Mittal, Peter Henderson
+  * Princeton University | Virginia Tech | IBM Research | Stanford University
+  * [2023.10.05] https://arxiv.org/abs/2310.03693
+  * A finding
 * **Can Language Models be Instructed to Protect Personal Information?** | [Github](https://github.com/ethanm88/llm-access-control) ![Star](https://img.shields.io/github/stars/ethanm88/llm-access-control.svg?style=social&label=Star)
   * Yang Chen, Ethan Mendes, Sauvik Das, Wei Xu, Alan Ritter
   * Georgia Institute of Technology | Carnegie Mellon University
@@ -294,28 +319,8 @@ Taxonomy----safety of MLLMs on images and text:
   * TongJi University | Tsinghua University | Beijing University of Technology | Nanyang Technological University | Peng Cheng Laboratory
   * [2024.04.08] https://arxiv.org/abs/2404.05264
   * Survey
-* **Uncovering Bias in Large Vision-Language Models with Counterfactuals**
-  * Phillip Howard, Anahita Bhiwandiwalla, Kathleen C. Fraser, Svetlana Kiritchenko
-  * Intel Labs | National Research Council Canada
-  * [2024.03.29] https://arxiv.org/abs/2404.00166
-  * Analysis
-* **Evaluating the Efficacy of Prompt-Engineered Large Multimodal Models Versus Fine-Tuned Vision Transformers in Image-Based Security Applications**
-  * Fouad Trad, Ali Chehab
-  * American University of Beirut
-  * [2024.03.26] https://arxiv.org/abs/2403.17787
-  * Analysis
-* **Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models** | [Github](https://github.com/TRI-ML/prismatic-vlms) ![Star](https://img.shields.io/github/stars/TRI-ML/prismatic-vlms.svg?style=social&label=Star)
-  * Siddharth Karamcheti, Suraj Nair, Ashwin Balakrishna, Percy Liang, Thomas Kollar, Dorsa Sadigh
-  * Stanford | Toyota Research Institute
-  * [2024.02.12] https://arxiv.org/abs/2402.07865
-  * Insights
 * **Safety of Multimodal Large Language Models on Images and Text**
   * Xin Liu, Yichen Zhu, Yunshi Lan, Chao Yang, Yu Qiao
   * East China Normal University | Midea Group | Shanghai AI Laboratory
   * [2024.02.01] https://arxiv.org/abs/2402.00357
   * Survey
-* **Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!** | [Github](https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety) ![Star](https://img.shields.io/github/stars/LLM-Tuning-Safety/LLMs-Finetuning-Safety.svg?style=social&label=Star)
-  * Xiangyu Qi, Yi Zeng, Tinghao Xie, Pin-Yu Chen, Ruoxi Jia, Prateek Mittal, Peter Henderson
-  * Princeton University | Virginia Tech | IBM Research | Stanford University
-  * [2023.10.05] https://arxiv.org/abs/2310.03693
-  * A finding

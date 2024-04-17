@@ -38,7 +38,7 @@ prefix_str = (
     "Taxonomy----safety of MLLMs on images and text:\n"
     "<img src='./assets/taxonomy.jpg' width='100%'>\n\n"
     "**Table of Contents**\n"
-    "- [Benchmark(Evaluation)](#Benchmark)\n"
+    "- [Evaluation](#Evaluation)\n"
     "- [Attack](#Attack)\n"
     "- [Defense](#Defense)\n"
     "- [Other](#Other)\n"
@@ -91,9 +91,12 @@ if __name__ == "__main__":
         pass
     with open(md_file,"a+") as mf:
         mf.write(prefix_str)
-        mf.write("## Benchmark\n")
+        mf.write("## Evaluation\n")
         for paper in json_data['Main']:
-            if 'benchmark' not in paper['Notes'].lower():
+            if 'benchmark' not in paper['Notes'].lower() and \
+            'finding' not in paper['Notes'].lower() and \
+            'analysis' not in paper['Notes'].lower() and \
+            'insight' not in paper['Notes'].lower():
                 continue
             paper_str = get_paper_str(paper)
             mf.write(paper_str)
@@ -114,7 +117,10 @@ if __name__ == "__main__":
         
         mf.write("## Other\n")
         for paper in json_data['Main']:
-            if 'benchmark' in paper['Notes'].lower():
+            if 'benchmark' in paper['Notes'].lower() or \
+            'finding' in paper['Notes'].lower() or \
+            'analysis' in paper['Notes'].lower() or \
+            'insight' in paper['Notes'].lower():
                 continue
             if 'attack' in paper['Notes'].lower():
                 continue
