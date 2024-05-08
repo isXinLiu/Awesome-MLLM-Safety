@@ -46,6 +46,11 @@ Taxonomy----safety of MLLMs on images and text:
 ---
 
 ## Evaluation
+* **Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks** | [Github](https://github.com/gpantaz/vl_jailbreak) ![Star](https://img.shields.io/github/stars/gpantaz/vl_jailbreak.svg?style=social&label=Star)
+  * Georgios Pantazopoulos, Amit Parekh, Malvina Nikandrou, Alessandro Suglia
+  * Heriot-Watt University
+  * [2024.05.07] https://arxiv.org/abs/2405.04403
+  * A finding
 * **Private Attribute Inference from Images with Vision-Language Models**
   * Batuhan Tömekçe, Mark Vero, Robin Staab, Martin Vechev
   * ETH Zurich
