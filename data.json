@@ -1,6 +1,15 @@
 {
     "Main": [
         {
+            "Date": "2024.05.07",
+            "Notes": "A finding",
+            "Title": "Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks",
+            "Link": "https://arxiv.org/abs/2405.04403",
+            "Author": "Georgios Pantazopoulos, Amit Parekh, Malvina Nikandrou, Alessandro Suglia",
+            "Affiliation": "Heriot-Watt University",
+            "Code": "https://github.com/gpantaz/vl_jailbreak"
+        },
+        {
             "Date": "2024.04.16",
             "Notes": "Benchmark",
             "Title": "Private Attribute Inference from Images with Vision-Language Models",
