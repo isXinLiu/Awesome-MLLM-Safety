@@ -1,6 +1,15 @@
 {
     "Main": [
         {
+            "Date": "2024.05.22",
+            "Notes": "Defense",
+            "Title": "Safety Alignment for Vision Language Models",
+            "Link": "https://arxiv.org/abs/2405.13581",
+            "Author": "Zhendong Liu, Yuanbi Nie, Yingshui Tan, Xiangyu Yue, Qiushi Cui, Chongjun Wang, Xiaoyong Zhu, Bo Zheng",
+            "Affiliation": "Nanjing University | Chongqing University | Alibaba Group | Chinese University of Hong Kong",
+            "Code": ""
+        },
+        {
             "Date": "2024.05.07",
             "Notes": "A finding",
             "Title": "Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks",

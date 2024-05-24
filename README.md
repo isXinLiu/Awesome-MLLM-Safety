@@ -273,6 +273,11 @@ Taxonomy----safety of MLLMs on images and text:
   * [2023.06.22] https://arxiv.org/abs/2306.13213
   * Attack
 ## Defense
+* **Safety Alignment for Vision Language Models**
+  * Zhendong Liu, Yuanbi Nie, Yingshui Tan, Xiangyu Yue, Qiushi Cui, Chongjun Wang, Xiaoyong Zhu, Bo Zheng
+  * Nanjing University | Chongqing University | Alibaba Group | Chinese University of Hong Kong
+  * [2024.05.22] https://arxiv.org/abs/2405.13581
+  * Defense
 * **AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting** | [Github](https://github.com/rain305f/AdaShield) ![Star](https://img.shields.io/github/stars/rain305f/AdaShield.svg?style=social&label=Star)
   * Yu Wang, Xiaogeng Liu, Yu Li, Muhao Chen, Chaowei Xiao
   * Peking University | University of Wisconsin-Madison | International Digital Economy Academy | University of California, Davis
