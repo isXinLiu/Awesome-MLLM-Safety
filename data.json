@@ -1,6 +1,15 @@
 {
     "Main": [
         {
+            "Date": "2024.05.27",
+            "Notes": "Defense, Benchmark",
+            "Title": "Privacy-Aware Visual Language Models",
+            "Link": "https://arxiv.org/abs/2405.17423",
+            "Author": "Laurens Samson, Nimrod Barazani, Sennay Ghebreab, Yuki M. Asano",
+            "Affiliation": "University of Amsterdam",
+            "Code": ""
+        },
+        {
             "Date": "2024.05.22",
             "Notes": "Defense",
             "Title": "Safety Alignment for Vision Language Models",

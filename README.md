@@ -46,6 +46,11 @@ Taxonomy----safety of MLLMs on images and text:
 ---
 
 ## Evaluation
+* **Privacy-Aware Visual Language Models**
+  * Laurens Samson, Nimrod Barazani, Sennay Ghebreab, Yuki M. Asano
+  * University of Amsterdam
+  * [2024.05.27] https://arxiv.org/abs/2405.17423
+  * Defense, Benchmark
 * **Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks** | [Github](https://github.com/gpantaz/vl_jailbreak) ![Star](https://img.shields.io/github/stars/gpantaz/vl_jailbreak.svg?style=social&label=Star)
   * Georgios Pantazopoulos, Amit Parekh, Malvina Nikandrou, Alessandro Suglia
   * Heriot-Watt University
@@ -273,6 +278,11 @@ Taxonomy----safety of MLLMs on images and text:
   * [2023.06.22] https://arxiv.org/abs/2306.13213
   * Attack
 ## Defense
+* **Privacy-Aware Visual Language Models**
+  * Laurens Samson, Nimrod Barazani, Sennay Ghebreab, Yuki M. Asano
+  * University of Amsterdam
+  * [2024.05.27] https://arxiv.org/abs/2405.17423
+  * Defense, Benchmark
 * **Safety Alignment for Vision Language Models**
   * Zhendong Liu, Yuanbi Nie, Yingshui Tan, Xiangyu Yue, Qiushi Cui, Chongjun Wang, Xiaoyong Zhu, Bo Zheng
   * Nanjing University | Chongqing University | Alibaba Group | Chinese University of Hong Kong
