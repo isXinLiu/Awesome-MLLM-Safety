@@ -157,6 +157,11 @@ Taxonomy----safety of MLLMs on images and text:
   * [2023.10.03] https://arxiv.org/abs/2310.02224
   * Attack, Defense, Benchmark
 ## Attack
+* **White-box Multimodal Jailbreaks Against Large Vision-Language Models**
+  * Ruofan Wang, Xingjun Ma, Hanxu Zhou, Chuanjun Ji, Guangnan Ye, Yu-Gang Jiang
+  * Fudan University |  Shanghai Jiao Tong University | DataGrand Tech
+  * [2024.05.28] https://arxiv.org/abs/2405.17894
+  * Attack
 * **Composite Backdoor Attacks Against Large Language Models** | [Github](https://github.com/MiracleHH/CBA) ![Star](https://img.shields.io/github/stars/MiracleHH/CBA.svg?style=social&label=Star)
   * Hai Huang, Zhengyu Zhao, Michael Backes, Yun Shen, Yang Zhang
   * CISPA Helmholtz Center for Information Security | Xi'an Jiaotong University | NetApp

@@ -1,6 +1,15 @@
 {
     "Main": [
         {
+            "Date": "2024.05.28",
+            "Notes": "Attack",
+            "Title": "White-box Multimodal Jailbreaks Against Large Vision-Language Models",
+            "Link": "https://arxiv.org/abs/2405.17894",
+            "Author": "Ruofan Wang, Xingjun Ma, Hanxu Zhou, Chuanjun Ji, Guangnan Ye, Yu-Gang Jiang",
+            "Affiliation": "Fudan University |  Shanghai Jiao Tong University | DataGrand Tech",
+            "Code": ""
+        },
+        {
             "Date": "2024.05.27",
             "Notes": "Defense, Benchmark",
             "Title": "Privacy-Aware Visual Language Models",
