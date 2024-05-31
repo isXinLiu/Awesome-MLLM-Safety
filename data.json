@@ -1,6 +1,42 @@
 {
     "Main": [
         {
+            "Date": "2024.05.30",
+            "Notes": "Attack",
+            "Title": "Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models",
+            "Link": "https://arxiv.org/abs/2405.19802",
+            "Author": "Shuyuan Liu, Jiawei Chen, Shouwei Ruan, Hang Su, Zhaoxia Yin",
+            "Affiliation": "East China Normal University | Anhui University | Beihang University | Tsinghua University",
+            "Code": ""
+        },
+        {
+            "Date": "2024.05.30",
+            "Notes": "Attack",
+            "Title": "Typography Leads Semantic Diversifying: Amplifying Adversarial Transferability across Multimodal Large Language Models",
+            "Link": "https://arxiv.org/abs/2405.20090",
+            "Author": "Hao Cheng, Erjia Xiao, Jiahang Cao, Le Yang, Kaidi Xu, Jindong Gu, Renjing Xu",
+            "Affiliation": "HKUST (GZ) | Xi'an Jiaotong University | Drexel University | Oxford University",
+            "Code": ""
+        },
+        {
+            "Date": "2024.05.30",
+            "Notes": "Benchmark",
+            "Title": "AutoBreach: Universal and Adaptive Jailbreaking with Efficient Wordplay-Guided Optimization",
+            "Link": "https://arxiv.org/abs/2405.19668",
+            "Author": "Jiawei Chen, Xiao Yang, Zhengwei Fang, Yu Tian, Yinpeng Dong, Zhaoxia Yin, Hang Su",
+            "Affiliation": "East China Normal University | Tsinghua University | RealAI",
+            "Code": ""
+        },
+        {
+            "Date": "2024.05.30",
+            "Notes": "Attack",
+            "Title": "Efficient LLM-Jailbreaking by Introducing Visual Modality",
+            "Link": "https://arxiv.org/abs/2405.20015",
+            "Author": "Zhenxing Niu, Yuyao Sun, Haodong Ren, Haoxuan Ji, Quan Wang, Xiaoke Ma, Gang Hua, Rong Jin",
+            "Affiliation": "Xidian University | Xi'an Jiaotong University | Wormpex AI Research | Meta",
+            "Code": "https://github.com/abc321123444/LLM-jb"
+        },
+        {
             "Date": "2024.05.28",
             "Notes": "Attack",
             "Title": "White-box Multimodal Jailbreaks Against Large Vision-Language Models",

@@ -46,6 +46,11 @@ Taxonomy----safety of MLLMs on images and text:
 ---
 
 ## Evaluation
+* **AutoBreach: Universal and Adaptive Jailbreaking with Efficient Wordplay-Guided Optimization**
+  * Jiawei Chen, Xiao Yang, Zhengwei Fang, Yu Tian, Yinpeng Dong, Zhaoxia Yin, Hang Su
+  * East China Normal University | Tsinghua University | RealAI
+  * [2024.05.30] https://arxiv.org/abs/2405.19668
+  * Benchmark
 * **Privacy-Aware Visual Language Models**
   * Laurens Samson, Nimrod Barazani, Sennay Ghebreab, Yuki M. Asano
   * University of Amsterdam
@@ -157,6 +162,21 @@ Taxonomy----safety of MLLMs on images and text:
   * [2023.10.03] https://arxiv.org/abs/2310.02224
   * Attack, Defense, Benchmark
 ## Attack
+* **Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models**
+  * Shuyuan Liu, Jiawei Chen, Shouwei Ruan, Hang Su, Zhaoxia Yin
+  * East China Normal University | Anhui University | Beihang University | Tsinghua University
+  * [2024.05.30] https://arxiv.org/abs/2405.19802
+  * Attack
+* **Typography Leads Semantic Diversifying: Amplifying Adversarial Transferability across Multimodal Large Language Models**
+  * Hao Cheng, Erjia Xiao, Jiahang Cao, Le Yang, Kaidi Xu, Jindong Gu, Renjing Xu
+  * HKUST (GZ) | Xi'an Jiaotong University | Drexel University | Oxford University
+  * [2024.05.30] https://arxiv.org/abs/2405.20090
+  * Attack
+* **Efficient LLM-Jailbreaking by Introducing Visual Modality** | [Github](https://github.com/abc321123444/LLM-jb) ![Star](https://img.shields.io/github/stars/abc321123444/LLM-jb.svg?style=social&label=Star)
+  * Zhenxing Niu, Yuyao Sun, Haodong Ren, Haoxuan Ji, Quan Wang, Xiaoke Ma, Gang Hua, Rong Jin
+  * Xidian University | Xi'an Jiaotong University | Wormpex AI Research | Meta
+  * [2024.05.30] https://arxiv.org/abs/2405.20015
+  * Attack
 * **White-box Multimodal Jailbreaks Against Large Vision-Language Models**
   * Ruofan Wang, Xingjun Ma, Hanxu Zhou, Chuanjun Ji, Guangnan Ye, Yu-Gang Jiang
   * Fudan University |  Shanghai Jiao Tong University | DataGrand Tech
