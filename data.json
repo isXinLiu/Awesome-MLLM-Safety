@@ -1,6 +1,15 @@
 {
     "Main": [
         {
+            "Date": "2024.05.31",
+            "Notes": "Benchmark",
+            "Title": "ToxVidLLM: A Multimodal LLM-based Framework for Toxicity Detection in Code-Mixed Videos",
+            "Link": "https://arxiv.org/abs/2405.20628",
+            "Author": "Krishanu Maity, A.S. Poornash, Sriparna Saha, Pushpak Bhattacharyya",
+            "Affiliation": "Indian Institute of Technology Patna | Indian Institute of Technology Bombay",
+            "Code": "https://github.com/justaguyalways/ToxVidLM_ACL_2024"
+        },
+        {
             "Date": "2024.05.30",
             "Notes": "Attack",
             "Title": "Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models",
@@ -52,6 +61,24 @@
             "Link": "https://arxiv.org/abs/2405.17423",
             "Author": "Laurens Samson, Nimrod Barazani, Sennay Ghebreab, Yuki M. Asano",
             "Affiliation": "University of Amsterdam",
+            "Code": ""
+        },
+        {
+            "Date": "2024.05.26",
+            "Notes": "Attack, Benchmark",
+            "Title": "Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models",
+            "Link": "https://arxiv.org/abs/2405.20775",
+            "Author": "Xijie Huang, Xinyuan Wang, Hantao Zhang, Jiawen Xi, Jingkun An, Hao Wang, Chengwei Pan",
+            "Affiliation": "Beihang University | University of Science and Technology of China",
+            "Code": "https://github.com/dirtycomputer/O2M_attack"
+        },
+        {
+            "Date": "2024.05.25",
+            "Notes": "Attack",
+            "Title": "Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Characte",
+            "Link": "https://arxiv.org/abs/2405.20773",
+            "Author": "Siyuan Ma, Weidi Luo, Yu Wang, Xiaogeng Liu, Muhao Chen, Bo Li, Chaowei Xiao",
+            "Affiliation": "Peking University | The Ohio State University | University of Wisconsin-Madison | University of California | The University of Chicago",
             "Code": ""
         },
         {

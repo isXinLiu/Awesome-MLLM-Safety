@@ -46,6 +46,11 @@ Taxonomy----safety of MLLMs on images and text:
 ---
 
 ## Evaluation
+* **ToxVidLLM: A Multimodal LLM-based Framework for Toxicity Detection in Code-Mixed Videos** | [Github](https://github.com/justaguyalways/ToxVidLM_ACL_2024) ![Star](https://img.shields.io/github/stars/justaguyalways/ToxVidLM_ACL_2024.svg?style=social&label=Star)
+  * Krishanu Maity, A.S. Poornash, Sriparna Saha, Pushpak Bhattacharyya
+  * Indian Institute of Technology Patna | Indian Institute of Technology Bombay
+  * [2024.05.31] https://arxiv.org/abs/2405.20628
+  * Benchmark
 * **AutoBreach: Universal and Adaptive Jailbreaking with Efficient Wordplay-Guided Optimization**
   * Jiawei Chen, Xiao Yang, Zhengwei Fang, Yu Tian, Yinpeng Dong, Zhaoxia Yin, Hang Su
   * East China Normal University | Tsinghua University | RealAI
@@ -56,6 +61,11 @@ Taxonomy----safety of MLLMs on images and text:
   * University of Amsterdam
   * [2024.05.27] https://arxiv.org/abs/2405.17423
   * Defense, Benchmark
+* **Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models** | [Github](https://github.com/dirtycomputer/O2M_attack) ![Star](https://img.shields.io/github/stars/dirtycomputer/O2M_attack.svg?style=social&label=Star)
+  * Xijie Huang, Xinyuan Wang, Hantao Zhang, Jiawen Xi, Jingkun An, Hao Wang, Chengwei Pan
+  * Beihang University | University of Science and Technology of China
+  * [2024.05.26] https://arxiv.org/abs/2405.20775
+  * Attack, Benchmark
 * **Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks** | [Github](https://github.com/gpantaz/vl_jailbreak) ![Star](https://img.shields.io/github/stars/gpantaz/vl_jailbreak.svg?style=social&label=Star)
   * Georgios Pantazopoulos, Amit Parekh, Malvina Nikandrou, Alessandro Suglia
   * Heriot-Watt University
@@ -181,6 +191,16 @@ Taxonomy----safety of MLLMs on images and text:
   * Ruofan Wang, Xingjun Ma, Hanxu Zhou, Chuanjun Ji, Guangnan Ye, Yu-Gang Jiang
   * Fudan University |  Shanghai Jiao Tong University | DataGrand Tech
   * [2024.05.28] https://arxiv.org/abs/2405.17894
+  * Attack
+* **Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models** | [Github](https://github.com/dirtycomputer/O2M_attack) ![Star](https://img.shields.io/github/stars/dirtycomputer/O2M_attack.svg?style=social&label=Star)
+  * Xijie Huang, Xinyuan Wang, Hantao Zhang, Jiawen Xi, Jingkun An, Hao Wang, Chengwei Pan
+  * Beihang University | University of Science and Technology of China
+  * [2024.05.26] https://arxiv.org/abs/2405.20775
+  * Attack, Benchmark
+* **Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Characte**
+  * Siyuan Ma, Weidi Luo, Yu Wang, Xiaogeng Liu, Muhao Chen, Bo Li, Chaowei Xiao
+  * Peking University | The Ohio State University | University of Wisconsin-Madison | University of California | The University of Chicago
+  * [2024.05.25] https://arxiv.org/abs/2405.20773
   * Attack
 * **Composite Backdoor Attacks Against Large Language Models** | [Github](https://github.com/MiracleHH/CBA) ![Star](https://img.shields.io/github/stars/MiracleHH/CBA.svg?style=social&label=Star)
   * Hai Huang, Zhengyu Zhao, Michael Backes, Yun Shen, Yang Zhang
