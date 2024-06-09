@@ -172,6 +172,16 @@ Taxonomy----safety of MLLMs on images and text:
   * [2023.10.03] https://arxiv.org/abs/2310.02224
   * Attack, Defense, Benchmark
 ## Attack
+* **Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt** | [Github](https://github.com/NY1024/BAP-Jailbreak-Vision-Language-Models-via-Bi-Modal-Adversarial-Prompt) ![Star](https://img.shields.io/github/stars/NY1024/BAP-Jailbreak-Vision-Language-Models-via-Bi-Modal-Adversarial-Prompt.svg?style=social&label=Star)
+  * Zonghao Ying, Aishan Liu, Tianyuan Zhang, Zhengmin Yu, Siyuan Liang, Xianglong Liu, Dacheng Tao
+  * Beihang University | Fudan University | National University of Singapore | Nanyang Technological University
+  * [2024.06.06] https://arxiv.org/abs/2406.04031
+  * Attack
+* **Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models**
+  * Shuyuan Liu, Jiawei Chen, Shouwei Ruan, Hang Su, Zhaoxia Yin
+  * East China Normal University | Beihang University | Tsinghua University
+  * [2024.05.30] https://arxiv.org/abs/2405.19802
+  * Attack(Robot)
 * **Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models**
   * Shuyuan Liu, Jiawei Chen, Shouwei Ruan, Hang Su, Zhaoxia Yin
   * East China Normal University | Anhui University | Beihang University | Tsinghua University
@@ -323,6 +333,11 @@ Taxonomy----safety of MLLMs on images and text:
   * [2023.06.22] https://arxiv.org/abs/2306.13213
   * Attack
 ## Defense
+* **Cross-Modal Safety Alignment: Is textual unlearning all you need?**
+  * Trishna Chakraborty, Erfan Shayegani, Zikui Cai, Nael Abu-Ghazaleh, M. Salman Asif, Yue Dong, Amit K. Roy-Chowdhury, Chengyu Song
+  * University of California
+  * [2024.05.27] https://arxiv.org/abs/2406.02575
+  * Defense
 * **Privacy-Aware Visual Language Models**
   * Laurens Samson, Nimrod Barazani, Sennay Ghebreab, Yuki M. Asano
   * University of Amsterdam

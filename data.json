@@ -1,6 +1,15 @@
 {
     "Main": [
         {
+            "Date": "2024.06.06",
+            "Notes": "Attack",
+            "Title": "Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt",
+            "Link": "https://arxiv.org/abs/2406.04031",
+            "Author": "Zonghao Ying, Aishan Liu, Tianyuan Zhang, Zhengmin Yu, Siyuan Liang, Xianglong Liu, Dacheng Tao",
+            "Affiliation": "Beihang University | Fudan University | National University of Singapore | Nanyang Technological University",
+            "Code": "https://github.com/NY1024/BAP-Jailbreak-Vision-Language-Models-via-Bi-Modal-Adversarial-Prompt"
+        },
+        {
             "Date": "2024.05.31",
             "Notes": "Benchmark",
             "Title": "ToxVidLLM: A Multimodal LLM-based Framework for Toxicity Detection in Code-Mixed Videos",
@@ -8,6 +17,15 @@
             "Author": "Krishanu Maity, A.S. Poornash, Sriparna Saha, Pushpak Bhattacharyya",
             "Affiliation": "Indian Institute of Technology Patna | Indian Institute of Technology Bombay",
             "Code": "https://github.com/justaguyalways/ToxVidLM_ACL_2024"
+        },
+        {
+            "Date": "2024.05.30",
+            "Notes": "Attack(Robot)",
+            "Title": "Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models",
+            "Link": "https://arxiv.org/abs/2405.19802",
+            "Author": "Shuyuan Liu, Jiawei Chen, Shouwei Ruan, Hang Su, Zhaoxia Yin",
+            "Affiliation": "East China Normal University | Beihang University | Tsinghua University",
+            "Code": ""
         },
         {
             "Date": "2024.05.30",
@@ -52,6 +70,15 @@
             "Link": "https://arxiv.org/abs/2405.17894",
             "Author": "Ruofan Wang, Xingjun Ma, Hanxu Zhou, Chuanjun Ji, Guangnan Ye, Yu-Gang Jiang",
             "Affiliation": "Fudan University |  Shanghai Jiao Tong University | DataGrand Tech",
+            "Code": ""
+        },
+        {
+            "Date": "2024.05.27",
+            "Notes": "Defense",
+            "Title": "Cross-Modal Safety Alignment: Is textual unlearning all you need?",
+            "Link": "https://arxiv.org/abs/2406.02575",
+            "Author": "Trishna Chakraborty, Erfan Shayegani, Zikui Cai, Nael Abu-Ghazaleh, M. Salman Asif, Yue Dong, Amit K. Roy-Chowdhury, Chengyu Song",
+            "Affiliation": "University of California",
             "Code": ""
         },
         {
