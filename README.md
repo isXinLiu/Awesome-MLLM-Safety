@@ -333,6 +333,11 @@ Taxonomy----safety of MLLMs on images and text:
   * [2023.06.22] https://arxiv.org/abs/2306.13213
   * Attack
 ## Defense
+* **LLavaGuard: VLM-based Safeguards for Vision Dataset Curation and Safety Assessment** | [Github](https://github.com/ml-research/LlavaGuard) ![Star](https://img.shields.io/github/stars/ml-research/LlavaGuard.svg?style=social&label=Star)
+  * Lukas Helff, Felix Friedrich, Manuel Brack, Kristian Kersting, Patrick Schramowski
+  * TU Darmstadt | DFKI | hessian.AI | Ontocord | Centre for Cognitive Science, Darmstadt
+  * [2024.06.07] https://arxiv.org/abs/2406.05113
+  * Defense
 * **Cross-Modal Safety Alignment: Is textual unlearning all you need?**
   * Trishna Chakraborty, Erfan Shayegani, Zikui Cai, Nael Abu-Ghazaleh, M. Salman Asif, Yue Dong, Amit K. Roy-Chowdhury, Chengyu Song
   * University of California

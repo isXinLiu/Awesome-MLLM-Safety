@@ -1,6 +1,15 @@
 {
     "Main": [
         {
+            "Date": "2024.06.07",
+            "Notes": "Defense",
+            "Title": "LLavaGuard: VLM-based Safeguards for Vision Dataset Curation and Safety Assessment",
+            "Link": "https://arxiv.org/abs/2406.05113",
+            "Author": "Lukas Helff, Felix Friedrich, Manuel Brack, Kristian Kersting, Patrick Schramowski",
+            "Affiliation": "TU Darmstadt | DFKI | hessian.AI | Ontocord | Centre for Cognitive Science, Darmstadt",
+            "Code": "https://github.com/ml-research/LlavaGuard"
+        },
+        {
             "Date": "2024.06.06",
             "Notes": "Attack",
             "Title": "Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt",
