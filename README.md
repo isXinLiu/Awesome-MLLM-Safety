@@ -46,6 +46,11 @@ Taxonomy----safety of MLLMs on images and text:
 ---
 
 ## Evaluation
+* **CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models** | [Github](https://github.com/richard-peng-xia/CARES) ![Star](https://img.shields.io/github/stars/richard-peng-xia/CARES.svg?style=social&label=Star)
+  * Peng Xia, Ze Chen, Juanxi Tian, Yangrui Gong, Ruibo Hou, Yue Xu, Zhenbang Wu, Zhiyuan Fan, Yiyang Zhou, Kangyu Zhu, Wenhao Zheng, Zhaoyang Wang, Xiao Wang, Xuchao Zhang, Chetan Bansal, Marc Niethammer, Junzhou Huang, Hongtu Zhu, Yun Li, Jimeng Sun, Zongyuan Ge, Gang Li, James Zou, Huaxiu Yao
+  * UNC-Chapel Hill | UIUC | Brown University | University of Washington | Microsoft Research | UT Arlington | Monash University | Stanford University
+  * [2024.06.10] https://arxiv.org/abs/2406.06007
+  * Benchmark
 * **ToxVidLLM: A Multimodal LLM-based Framework for Toxicity Detection in Code-Mixed Videos** | [Github](https://github.com/justaguyalways/ToxVidLM_ACL_2024) ![Star](https://img.shields.io/github/stars/justaguyalways/ToxVidLM_ACL_2024.svg?style=social&label=Star)
   * Krishanu Maity, A.S. Poornash, Sriparna Saha, Pushpak Bhattacharyya
   * Indian Institute of Technology Patna | Indian Institute of Technology Bombay

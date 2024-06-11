@@ -1,6 +1,15 @@
 {
     "Main": [
         {
+            "Date": "2024.06.10",
+            "Notes": "Benchmark",
+            "Title": "CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models",
+            "Link": "https://arxiv.org/abs/2406.06007",
+            "Author": "Peng Xia, Ze Chen, Juanxi Tian, Yangrui Gong, Ruibo Hou, Yue Xu, Zhenbang Wu, Zhiyuan Fan, Yiyang Zhou, Kangyu Zhu, Wenhao Zheng, Zhaoyang Wang, Xiao Wang, Xuchao Zhang, Chetan Bansal, Marc Niethammer, Junzhou Huang, Hongtu Zhu, Yun Li, Jimeng Sun, Zongyuan Ge, Gang Li, James Zou, Huaxiu Yao",
+            "Affiliation": "UNC-Chapel Hill | UIUC | Brown University | University of Washington | Microsoft Research | UT Arlington | Monash University | Stanford University",
+            "Code": "https://github.com/richard-peng-xia/CARES"
+        },
+        {
             "Date": "2024.06.07",
             "Notes": "Defense",
             "Title": "LLavaGuard: VLM-based Safeguards for Vision Dataset Curation and Safety Assessment",
