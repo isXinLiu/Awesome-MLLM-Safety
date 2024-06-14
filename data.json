@@ -1,6 +1,24 @@
 {
     "Main": [
         {
+            "Date": "2024.06.11",
+            "Notes": "Benchmark",
+            "Title": "MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models",
+            "Link": "https://arxiv.org/abs/2406.07594",
+            "Author": "Tianle Gu, Zeyang Zhou, Kexin Huang, Dandan Liang, Yixu Wang, Haiquan Zhao, Yuanqi Yao, Xingge Qiao, Keqing Wang, Yujiu Yang, Yan Teng, Yu Qiao, Yingchun Wang",
+            "Affiliation": "Tsinghua University | Shanghai Artificial Intelligence Laboratory",
+            "Code": "https://github.com/Carol-gutianle/MLLMGuard"
+        },
+        {
+            "Date": "2024.06.11",
+            "Notes": "Benchmark",
+            "Title": "Benchmarking Trustworthiness of Multimodal Large Language Models: A Comprehensive Study",
+            "Link": "https://arxiv.org/abs/2406.07057",
+            "Author": "Yichi Zhang, Yao Huang, Yitong Sun, Chang Liu, Zhe Zhao, Zhengwei Fang, Yifan Wang, Huanran Chen, Xiao Yang, Xingxing Wei, Hang Su, Yinpeng Dong, Jun Zhu",
+            "Affiliation": "Tsinghua University | Beihang University |  Shanghai Jiao Tong University | RealAI",
+            "Code": "https://github.com/thu-ml/MMTrustEval"
+        },
+        {
             "Date": "2024.06.10",
             "Notes": "Benchmark",
             "Title": "CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models",

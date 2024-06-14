@@ -46,6 +46,16 @@ Taxonomy----safety of MLLMs on images and text:
 ---
 
 ## Evaluation
+* **MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models** | [Github](https://github.com/Carol-gutianle/MLLMGuard) ![Star](https://img.shields.io/github/stars/Carol-gutianle/MLLMGuard.svg?style=social&label=Star)
+  * Tianle Gu, Zeyang Zhou, Kexin Huang, Dandan Liang, Yixu Wang, Haiquan Zhao, Yuanqi Yao, Xingge Qiao, Keqing Wang, Yujiu Yang, Yan Teng, Yu Qiao, Yingchun Wang
+  * Tsinghua University | Shanghai Artificial Intelligence Laboratory
+  * [2024.06.11] https://arxiv.org/abs/2406.07594
+  * Benchmark
+* **Benchmarking Trustworthiness of Multimodal Large Language Models: A Comprehensive Study** | [Github](https://github.com/thu-ml/MMTrustEval) ![Star](https://img.shields.io/github/stars/thu-ml/MMTrustEval.svg?style=social&label=Star)
+  * Yichi Zhang, Yao Huang, Yitong Sun, Chang Liu, Zhe Zhao, Zhengwei Fang, Yifan Wang, Huanran Chen, Xiao Yang, Xingxing Wei, Hang Su, Yinpeng Dong, Jun Zhu
+  * Tsinghua University | Beihang University |  Shanghai Jiao Tong University | RealAI
+  * [2024.06.11] https://arxiv.org/abs/2406.07057
+  * Benchmark
 * **CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models** | [Github](https://github.com/richard-peng-xia/CARES) ![Star](https://img.shields.io/github/stars/richard-peng-xia/CARES.svg?style=social&label=Star)
   * Peng Xia, Ze Chen, Juanxi Tian, Yangrui Gong, Ruibo Hou, Yue Xu, Zhenbang Wu, Zhiyuan Fan, Yiyang Zhou, Kangyu Zhu, Wenhao Zheng, Zhaoyang Wang, Xiao Wang, Xuchao Zhang, Chetan Bansal, Marc Niethammer, Junzhou Huang, Hongtu Zhu, Yun Li, Jimeng Sun, Zongyuan Ge, Gang Li, James Zou, Huaxiu Yao
   * UNC-Chapel Hill | UIUC | Brown University | University of Washington | Microsoft Research | UT Arlington | Monash University | Stanford University
