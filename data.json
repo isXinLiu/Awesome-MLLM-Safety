@@ -20,6 +20,15 @@
         },
         {
             "Date": "2024.06.10",
+            "Notes": "Attack",
+            "Title": "Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks",
+            "Link": "https://arxiv.org/abs/2406.06302",
+            "Author": "Zonghao Ying, Aishan Liu, Xianglong Liu, Dacheng Tao",
+            "Affiliation": "Beihang University | Nanyang Technological University",
+            "Code": "https://github.com/NY1024/Jailbreak_GPT4o"
+        },
+        {
+            "Date": "2024.06.10",
             "Notes": "Benchmark",
             "Title": "CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models",
             "Link": "https://arxiv.org/abs/2406.06007",

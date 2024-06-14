@@ -187,6 +187,11 @@ Taxonomy----safety of MLLMs on images and text:
   * [2023.10.03] https://arxiv.org/abs/2310.02224
   * Attack, Defense, Benchmark
 ## Attack
+* **Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks** | [Github](https://github.com/NY1024/Jailbreak_GPT4o) ![Star](https://img.shields.io/github/stars/NY1024/Jailbreak_GPT4o.svg?style=social&label=Star)
+  * Zonghao Ying, Aishan Liu, Xianglong Liu, Dacheng Tao
+  * Beihang University | Nanyang Technological University
+  * [2024.06.10] https://arxiv.org/abs/2406.06302
+  * Attack
 * **Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt** | [Github](https://github.com/NY1024/BAP-Jailbreak-Vision-Language-Models-via-Bi-Modal-Adversarial-Prompt) ![Star](https://img.shields.io/github/stars/NY1024/BAP-Jailbreak-Vision-Language-Models-via-Bi-Modal-Adversarial-Prompt.svg?style=social&label=Star)
   * Zonghao Ying, Aishan Liu, Tianyuan Zhang, Zhengmin Yu, Siyuan Liang, Xianglong Liu, Dacheng Tao
   * Beihang University | Fudan University | National University of Singapore | Nanyang Technological University
