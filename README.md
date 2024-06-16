@@ -1,4 +1,4 @@
-# Awesome-MLLM-Safety [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-MLLM-Safety [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/isXinLiu/Awesome-MLLM-Safety)
 A **continual** collection of papers related to safety of Multimodal Large Language Models (MLLMs).
 
 <details>
@@ -202,11 +202,6 @@ Taxonomy----safety of MLLMs on images and text:
   * East China Normal University | Beihang University | Tsinghua University
   * [2024.05.30] https://arxiv.org/abs/2405.19802
   * Attack(Robot)
-* **Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models**
-  * Shuyuan Liu, Jiawei Chen, Shouwei Ruan, Hang Su, Zhaoxia Yin
-  * East China Normal University | Anhui University | Beihang University | Tsinghua University
-  * [2024.05.30] https://arxiv.org/abs/2405.19802
-  * Attack
 * **Typography Leads Semantic Diversifying: Amplifying Adversarial Transferability across Multimodal Large Language Models**
   * Hao Cheng, Erjia Xiao, Jiahang Cao, Le Yang, Kaidi Xu, Jindong Gu, Renjing Xu
   * HKUST (GZ) | Xi'an Jiaotong University | Drexel University | Oxford University
@@ -285,7 +280,7 @@ Taxonomy----safety of MLLMs on images and text:
 * **An Image Is Worth 1000 Lies: Transferability of Adversarial Images across Prompts on Vision-Language Models** | [Github](https://github.com/Haochen-Luo/CroPA) ![Star](https://img.shields.io/github/stars/Haochen-Luo/CroPA.svg?style=social&label=Star)
   * Haochen Luo, Jindong Gu, Fengyuan Liu, Philip Torr
   * University of Oxford
-  * [2024.01.16] https://openreview.net/forum?id=nc5GgFAvtk
+  * [2024.01.16] https://arxiv.org/abs/2403.09766
   * Attack
 * **MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models** | [Github](https://github.com/isXinLiu/MM-SafetyBench) ![Star](https://img.shields.io/github/stars/isXinLiu/MM-SafetyBench.svg?style=social&label=Star)
   * Xin Liu, Yichen Zhu, Jindong Gu, Yunshi Lan, Chao Yang, Yu Qiao

@@ -75,15 +75,6 @@
         {
             "Date": "2024.05.30",
             "Notes": "Attack",
-            "Title": "Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models",
-            "Link": "https://arxiv.org/abs/2405.19802",
-            "Author": "Shuyuan Liu, Jiawei Chen, Shouwei Ruan, Hang Su, Zhaoxia Yin",
-            "Affiliation": "East China Normal University | Anhui University | Beihang University | Tsinghua University",
-            "Code": ""
-        },
-        {
-            "Date": "2024.05.30",
-            "Notes": "Attack",
             "Title": "Typography Leads Semantic Diversifying: Amplifying Adversarial Transferability across Multimodal Large Language Models",
             "Link": "https://arxiv.org/abs/2405.20090",
             "Author": "Hao Cheng, Erjia Xiao, Jiahang Cao, Le Yang, Kaidi Xu, Jindong Gu, Renjing Xu",
@@ -418,7 +409,7 @@
             "Date": "2024.01.16",
             "Notes": "Attack",
             "Title": "An Image Is Worth 1000 Lies: Transferability of Adversarial Images across Prompts on Vision-Language Models",
-            "Link": "https://openreview.net/forum?id=nc5GgFAvtk",
+            "Link": "https://arxiv.org/abs/2403.09766",
             "Author": "Haochen Luo, Jindong Gu, Fengyuan Liu, Philip Torr",
             "Affiliation": "University of Oxford",
             "Code": "https://github.com/Haochen-Luo/CroPA"
