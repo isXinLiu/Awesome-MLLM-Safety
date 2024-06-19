@@ -187,6 +187,11 @@ Taxonomy----safety of MLLMs on images and text:
   * [2023.10.03] https://arxiv.org/abs/2310.02224
   * Attack, Defense, Benchmark
 ## Attack
+* **Adversarial Attacks on Multimodal Agents** | [Github](https://github.com/ChenWu98/agent-attack) ![Star](https://img.shields.io/github/stars/ChenWu98/agent-attack.svg?style=social&label=Star)
+  * Chen Henry Wu, Jing Yu Koh, Ruslan Salakhutdinov, Daniel Fried, Aditi Raghunathan
+  * Carnegie Mellon University
+  * [2024.06.18] https://arxiv.org/abs/2406.12814
+  * Attack
 * **Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks** | [Github](https://github.com/NY1024/Jailbreak_GPT4o) ![Star](https://img.shields.io/github/stars/NY1024/Jailbreak_GPT4o.svg?style=social&label=Star)
   * Zonghao Ying, Aishan Liu, Xianglong Liu, Dacheng Tao
   * Beihang University | Nanyang Technological University
@@ -348,6 +353,11 @@ Taxonomy----safety of MLLMs on images and text:
   * [2023.06.22] https://arxiv.org/abs/2306.13213
   * Attack
 ## Defense
+* **SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model** | [Github](https://github.com/EchoseChen/SPA-VL-RLHF) ![Star](https://img.shields.io/github/stars/EchoseChen/SPA-VL-RLHF.svg?style=social&label=Star)
+  * Yongting Zhang, Lu Chen, Guodong Zheng, Yifeng Gao, Rui Zheng, Jinlan Fu, Zhenfei Yin, Senjie Jin, Yu Qiao, Xuanjing Huang, Feng Zhao, Tao Gui, Jing Shao
+  * University of Science and Technology of China | Fudan University | Shanghai Artificial Intelligence Laboratory
+  * [2024.06.17] https://arxiv.org/abs/2406.12030
+  * Defense
 * **LLavaGuard: VLM-based Safeguards for Vision Dataset Curation and Safety Assessment** | [Github](https://github.com/ml-research/LlavaGuard) ![Star](https://img.shields.io/github/stars/ml-research/LlavaGuard.svg?style=social&label=Star)
   * Lukas Helff, Felix Friedrich, Manuel Brack, Kristian Kersting, Patrick Schramowski
   * TU Darmstadt | DFKI | hessian.AI | Ontocord | Centre for Cognitive Science, Darmstadt

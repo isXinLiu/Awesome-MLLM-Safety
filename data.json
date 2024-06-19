@@ -1,6 +1,24 @@
 {
     "Main": [
         {
+            "Date": "2024.06.18",
+            "Notes": "Attack",
+            "Title": "Adversarial Attacks on Multimodal Agents",
+            "Link": "https://arxiv.org/abs/2406.12814",
+            "Author": "Chen Henry Wu, Jing Yu Koh, Ruslan Salakhutdinov, Daniel Fried, Aditi Raghunathan",
+            "Affiliation": "Carnegie Mellon University",
+            "Code": "https://github.com/ChenWu98/agent-attack"
+        },
+        {
+            "Date": "2024.06.17",
+            "Notes": "Defense",
+            "Title": "SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model",
+            "Link": "https://arxiv.org/abs/2406.12030",
+            "Author": "Yongting Zhang, Lu Chen, Guodong Zheng, Yifeng Gao, Rui Zheng, Jinlan Fu, Zhenfei Yin, Senjie Jin, Yu Qiao, Xuanjing Huang, Feng Zhao, Tao Gui, Jing Shao",
+            "Affiliation": "University of Science and Technology of China | Fudan University | Shanghai Artificial Intelligence Laboratory",
+            "Code": "https://github.com/EchoseChen/SPA-VL-RLHF"
+        },
+        {
             "Date": "2024.06.11",
             "Notes": "Benchmark",
             "Title": "MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models",
