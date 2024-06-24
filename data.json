@@ -1,6 +1,24 @@
 {
     "Main": [
         {
+            "Date": "2024.06.21",
+            "Notes": "Survey",
+            "Title": "From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking",
+            "Link": "https://arxiv.org/abs/2406.14859",
+            "Author": "Siyuan Wang, Zhuohan Long, Zhihao Fan, Zhongyu Wei",
+            "Affiliation": "University of Southern California | Fudan University | Alibaba Inc.",
+            "Code": ""
+        },
+        {
+            "Date": "2024.06.21",
+            "Notes": "Benchmark",
+            "Title": "Cross-Modality Safety Alignment",
+            "Link": "https://arxiv.org/abs/2406.15279",
+            "Author": "Siyin Wang, Xingsong Ye, Qinyuan Cheng, Junwen Duan, Shimin Li, Jinlan Fu, Xipeng Qiu, Xuanjing Huang",
+            "Affiliation": "Fudan University | National University of Singapore | Shanghai AI Laboratory",
+            "Code": "https://github.com/sinwang20/SIUO"
+        },
+        {
             "Date": "2024.06.18",
             "Notes": "Attack",
             "Title": "Adversarial Attacks on Multimodal Agents",
@@ -403,7 +421,7 @@
             "Link": "https://arxiv.org/abs/2402.00357",
             "Author": "Xin Liu, Yichen Zhu, Yunshi Lan, Chao Yang, Yu Qiao",
             "Affiliation": "East China Normal University | Midea Group | Shanghai AI Laboratory",
-            "Code": ""
+            "Code": "https://github.com/isXinLiu/Awesome-MLLM-Safety"
         },
         {
             "Date": "2024.01.23",

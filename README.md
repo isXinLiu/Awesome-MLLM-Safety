@@ -45,6 +45,11 @@ Taxonomy----safety of MLLMs on images and text:
 ---
 
 ## Evaluation
+* **Cross-Modality Safety Alignment** | [Github](https://github.com/sinwang20/SIUO) ![Star](https://img.shields.io/github/stars/sinwang20/SIUO.svg?style=social&label=Star)
+  * Siyin Wang, Xingsong Ye, Qinyuan Cheng, Junwen Duan, Shimin Li, Jinlan Fu, Xipeng Qiu, Xuanjing Huang
+  * Fudan University | National University of Singapore | Shanghai AI Laboratory
+  * [2024.06.21] https://arxiv.org/abs/2406.15279
+  * Benchmark
 * **MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models** | [Github](https://github.com/Carol-gutianle/MLLMGuard) ![Star](https://img.shields.io/github/stars/Carol-gutianle/MLLMGuard.svg?style=social&label=Star)
   * Tianle Gu, Zeyang Zhou, Kexin Huang, Dandan Liang, Yixu Wang, Haiquan Zhao, Yuanqi Yao, Xingge Qiao, Keqing Wang, Yujiu Yang, Yan Teng, Yu Qiao, Yingchun Wang
   * Tsinghua University | Shanghai Artificial Intelligence Laboratory
@@ -423,12 +428,17 @@ Taxonomy----safety of MLLMs on images and text:
   * [2023.10.03] https://arxiv.org/abs/2310.02224
   * Attack, Defense, Benchmark
 ## Other
+* **From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking**
+  * Siyuan Wang, Zhuohan Long, Zhihao Fan, Zhongyu Wei
+  * University of Southern California | Fudan University | Alibaba Inc.
+  * [2024.06.21] https://arxiv.org/abs/2406.14859
+  * Survey
 * **Unbridled Icarus: A Survey of the Potential Perils of Image Inputs in Multimodal Large Language Model Security**
   * Yihe Fan, Yuxin Cao, Ziyu Zhao, Ziyao Liu, Shaofeng Li
   * TongJi University | Tsinghua University | Beijing University of Technology | Nanyang Technological University | Peng Cheng Laboratory
   * [2024.04.08] https://arxiv.org/abs/2404.05264
   * Survey
-* **Safety of Multimodal Large Language Models on Images and Text**
+* **Safety of Multimodal Large Language Models on Images and Text** | [Github](https://github.com/isXinLiu/Awesome-MLLM-Safety) ![Star](https://img.shields.io/github/stars/isXinLiu/Awesome-MLLM-Safety.svg?style=social&label=Star)
   * Xin Liu, Yichen Zhu, Yunshi Lan, Chao Yang, Yu Qiao
   * East China Normal University | Midea Group | Shanghai AI Laboratory
   * [2024.02.01] https://arxiv.org/abs/2402.00357
