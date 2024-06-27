@@ -1,6 +1,15 @@
 {
     "Main": [
         {
+            "Date": "2024.06.22",
+            "Notes": "Benchmark",
+            "Title": "MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?",
+            "Link": "https://arxiv.org/abs/2406.17806",
+            "Author": "Xirui Li, Hengguang Zhou, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh",
+            "Affiliation": "University of California | University of Maryland | Pennsylvania State University",
+            "Code": "https://github.com/xirui-li/MOSSBench"
+        },
+        {
             "Date": "2024.06.21",
             "Notes": "Survey",
             "Title": "From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking",

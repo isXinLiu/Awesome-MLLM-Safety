@@ -45,6 +45,11 @@ Taxonomy----safety of MLLMs on images and text:
 ---
 
 ## Evaluation
+* **MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?** | [Github](https://github.com/xirui-li/MOSSBench) ![Star](https://img.shields.io/github/stars/xirui-li/MOSSBench.svg?style=social&label=Star)
+  * Xirui Li, Hengguang Zhou, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh
+  * University of California | University of Maryland | Pennsylvania State University
+  * [2024.06.22] https://arxiv.org/abs/2406.17806
+  * Benchmark
 * **Cross-Modality Safety Alignment** | [Github](https://github.com/sinwang20/SIUO) ![Star](https://img.shields.io/github/stars/sinwang20/SIUO.svg?style=social&label=Star)
   * Siyin Wang, Xingsong Ye, Qinyuan Cheng, Junwen Duan, Shimin Li, Jinlan Fu, Xipeng Qiu, Xuanjing Huang
   * Fudan University | National University of Singapore | Shanghai AI Laboratory
