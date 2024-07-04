@@ -1,6 +1,15 @@
 {
     "Main": [
         {
+            "Date": "2024.06.26",
+            "Notes": "Survey",
+            "Title": "JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models",
+            "Link": "https://arxiv.org/abs/2407.01599",
+            "Author": "Haibo Jin, Leyang Hu, Xinuo Li, Peiyan Zhang, Chonghan Chen, Jun Zhuang, Haohan Wang",
+            "Affiliation": "University of Illinois Urbana-Champaign | Brown University | University of Michigan Ann Arbor | Hong Kong University of Science and Technology | Carnegie Mellon University | Boise State University",
+            "Code": "https://github.com/Allen-piexl/JailbreakZoo"
+        },
+        {
             "Date": "2024.06.22",
             "Notes": "Benchmark",
             "Title": "MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?",

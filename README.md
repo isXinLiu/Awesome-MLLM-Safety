@@ -433,6 +433,11 @@ Taxonomy----safety of MLLMs on images and text:
   * [2023.10.03] https://arxiv.org/abs/2310.02224
   * Attack, Defense, Benchmark
 ## Other
+* **JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models** | [Github](https://github.com/Allen-piexl/JailbreakZoo) ![Star](https://img.shields.io/github/stars/Allen-piexl/JailbreakZoo.svg?style=social&label=Star)
+  * Haibo Jin, Leyang Hu, Xinuo Li, Peiyan Zhang, Chonghan Chen, Jun Zhuang, Haohan Wang
+  * University of Illinois Urbana-Champaign | Brown University | University of Michigan Ann Arbor | Hong Kong University of Science and Technology | Carnegie Mellon University | Boise State University
+  * [2024.06.26] https://arxiv.org/abs/2407.01599
+  * Survey
 * **From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking**
   * Siyuan Wang, Zhuohan Long, Zhihao Fan, Zhongyu Wei
   * University of Southern California | Fudan University | Alibaba Inc.
