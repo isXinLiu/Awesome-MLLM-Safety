@@ -1,6 +1,24 @@
 {
     "Main": [
         {
+            "Date": "2024.07.03",
+            "Notes": "Benchmark",
+            "Title": "VIVA: A Benchmark for Vision-Grounded Decision-Making with Human Values",
+            "Link": "https://arxiv.org/abs/2407.03000",
+            "Author": "Zhe Hu, Yixiao Ren, Jing Li, Yu Yin",
+            "Affiliation": "The Hong Kong Polytechnic University | Case Western Reserve University",
+            "Code": ""
+        },
+        {
+            "Date": "2024.07.01",
+            "Notes": "Attack",
+            "Title": "Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything",
+            "Link": "https://arxiv.org/abs/2407.02534",
+            "Author": "Xiaotian Zou, Yongkang Chen",
+            "Affiliation": " University of Exeter | Nanjing University of Aeronautics and Astronautics",
+            "Code": ""
+        },
+        {
             "Date": "2024.06.26",
             "Notes": "Survey",
             "Title": "JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models",

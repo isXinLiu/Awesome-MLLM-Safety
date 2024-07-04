@@ -45,6 +45,11 @@ Taxonomy----safety of MLLMs on images and text:
 ---
 
 ## Evaluation
+* **VIVA: A Benchmark for Vision-Grounded Decision-Making with Human Values**
+  * Zhe Hu, Yixiao Ren, Jing Li, Yu Yin
+  * The Hong Kong Polytechnic University | Case Western Reserve University
+  * [2024.07.03] https://arxiv.org/abs/2407.03000
+  * Benchmark
 * **MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?** | [Github](https://github.com/xirui-li/MOSSBench) ![Star](https://img.shields.io/github/stars/xirui-li/MOSSBench.svg?style=social&label=Star)
   * Xirui Li, Hengguang Zhou, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh
   * University of California | University of Maryland | Pennsylvania State University
@@ -196,6 +201,11 @@ Taxonomy----safety of MLLMs on images and text:
   * [2023.10.03] https://arxiv.org/abs/2310.02224
   * Attack, Defense, Benchmark
 ## Attack
+* **Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything**
+  * Xiaotian Zou, Yongkang Chen
+  *  University of Exeter | Nanjing University of Aeronautics and Astronautics
+  * [2024.07.01] https://arxiv.org/abs/2407.02534
+  * Attack
 * **Adversarial Attacks on Multimodal Agents** | [Github](https://github.com/ChenWu98/agent-attack) ![Star](https://img.shields.io/github/stars/ChenWu98/agent-attack.svg?style=social&label=Star)
   * Chen Henry Wu, Jing Yu Koh, Ruslan Salakhutdinov, Daniel Fried, Aditi Raghunathan
   * Carnegie Mellon University
