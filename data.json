@@ -1,6 +1,24 @@
 {
     "Main": [
         {
+            "Date": "2024.07.10",
+            "Notes": "Survey",
+            "Title": "A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends",
+            "Link": "https://arxiv.org/abs/2407.07403",
+            "Author": "Daizong Liu, Mingyu Yang, Xiaoye Qu, Pan Zhou, Wei Hu, Yu Cheng",
+            "Affiliation": "Peking University | Huazhong University of Science and Technology | The Chinese University of Hong Kong",
+            "Code": "https://github.com/liudaizong/Awesome-LVLM-Attack"
+        },
+        {
+            "Date": "2024.07.06",
+            "Notes": "Benchmark",
+            "Title": "Granular Privacy Control for Geolocation with Vision Language Models",
+            "Link": "https://arxiv.org/abs/2407.04952",
+            "Author": "Ethan Mendes, Yang Chen, James Hays, Sauvik Das, Wei Xu, Alan Ritter",
+            "Affiliation": "Georgia Tech | CMU",
+            "Code": "https://github.com/ethanm88/GPTGeoChat"
+        },
+        {
             "Date": "2024.07.03",
             "Notes": "Benchmark",
             "Title": "VIVA: A Benchmark for Vision-Grounded Decision-Making with Human Values",
@@ -214,6 +232,15 @@
             "Link": "https://arxiv.org/abs/2405.20773",
             "Author": "Siyuan Ma, Weidi Luo, Yu Wang, Xiaogeng Liu, Muhao Chen, Bo Li, Chaowei Xiao",
             "Affiliation": "Peking University | The Ohio State University | University of Wisconsin-Madison | University of California | The University of Chicago",
+            "Code": ""
+        },
+        {
+            "Date": "2024.05.22",
+            "Notes": "A finding",
+            "Title": "More Distinctively Black and Feminine Faces Lead to Increased Stereotyping in Vision-Language Models",
+            "Link": "https://arxiv.org/abs/2407.06194",
+            "Author": "Messi H.J. Lee, Jacob M. Montgomery, Calvin K. Lai",
+            "Affiliation": "Washington University in St. Louis",
             "Code": ""
         },
         {

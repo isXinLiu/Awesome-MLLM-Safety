@@ -45,6 +45,11 @@ Taxonomy----safety of MLLMs on images and text:
 ---
 
 ## Evaluation
+* **Granular Privacy Control for Geolocation with Vision Language Models** | [Github](https://github.com/ethanm88/GPTGeoChat) ![Star](https://img.shields.io/github/stars/ethanm88/GPTGeoChat.svg?style=social&label=Star)
+  * Ethan Mendes, Yang Chen, James Hays, Sauvik Das, Wei Xu, Alan Ritter
+  * Georgia Tech | CMU
+  * [2024.07.06] https://arxiv.org/abs/2407.04952
+  * Benchmark
 * **VIVA: A Benchmark for Vision-Grounded Decision-Making with Human Values**
   * Zhe Hu, Yixiao Ren, Jing Li, Yu Yin
   * The Hong Kong Polytechnic University | Case Western Reserve University
@@ -95,6 +100,11 @@ Taxonomy----safety of MLLMs on images and text:
   * Beihang University | University of Science and Technology of China
   * [2024.05.26] https://arxiv.org/abs/2405.20775
   * Attack, Benchmark
+* **More Distinctively Black and Feminine Faces Lead to Increased Stereotyping in Vision-Language Models**
+  * Messi H.J. Lee, Jacob M. Montgomery, Calvin K. Lai
+  * Washington University in St. Louis
+  * [2024.05.22] https://arxiv.org/abs/2407.06194
+  * A finding
 * **Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks** | [Github](https://github.com/gpantaz/vl_jailbreak) ![Star](https://img.shields.io/github/stars/gpantaz/vl_jailbreak.svg?style=social&label=Star)
   * Georgios Pantazopoulos, Amit Parekh, Malvina Nikandrou, Alessandro Suglia
   * Heriot-Watt University
@@ -443,6 +453,11 @@ Taxonomy----safety of MLLMs on images and text:
   * [2023.10.03] https://arxiv.org/abs/2310.02224
   * Attack, Defense, Benchmark
 ## Other
+* **A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends** | [Github](https://github.com/liudaizong/Awesome-LVLM-Attack) ![Star](https://img.shields.io/github/stars/liudaizong/Awesome-LVLM-Attack.svg?style=social&label=Star)
+  * Daizong Liu, Mingyu Yang, Xiaoye Qu, Pan Zhou, Wei Hu, Yu Cheng
+  * Peking University | Huazhong University of Science and Technology | The Chinese University of Hong Kong
+  * [2024.07.10] https://arxiv.org/abs/2407.07403
+  * Survey
 * **JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models** | [Github](https://github.com/Allen-piexl/JailbreakZoo) ![Star](https://img.shields.io/github/stars/Allen-piexl/JailbreakZoo.svg?style=social&label=Star)
   * Haibo Jin, Leyang Hu, Xinuo Li, Peiyan Zhang, Chonghan Chen, Jun Zhuang, Haohan Wang
   * University of Illinois Urbana-Champaign | Brown University | University of Michigan Ann Arbor | Hong Kong University of Science and Technology | Carnegie Mellon University | Boise State University
