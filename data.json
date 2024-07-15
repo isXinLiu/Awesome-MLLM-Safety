@@ -1,6 +1,15 @@
 {
     "Main": [
         {
+            "Date": "2024.07.12",
+            "Notes": "Attack",
+            "Title": "Refusing Safe Prompts for Multi-modal Large Language Models",
+            "Link": "https://arxiv.org/abs/2407.09050",
+            "Author": "Zedian Shao, Hongbin Liu, Yuepeng Hu, Neil Zhenqiang Gong",
+            "Affiliation": "Duke University",
+            "Code": "https://github.com/Sadcardation/MLLM-Refusal"
+        },
+        {
             "Date": "2024.07.10",
             "Notes": "Survey",
             "Title": "A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends",

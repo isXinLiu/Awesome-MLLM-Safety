@@ -211,6 +211,11 @@ Taxonomy----safety of MLLMs on images and text:
   * [2023.10.03] https://arxiv.org/abs/2310.02224
   * Attack, Defense, Benchmark
 ## Attack
+* **Refusing Safe Prompts for Multi-modal Large Language Models** | [Github](https://github.com/Sadcardation/MLLM-Refusal) ![Star](https://img.shields.io/github/stars/Sadcardation/MLLM-Refusal.svg?style=social&label=Star)
+  * Zedian Shao, Hongbin Liu, Yuepeng Hu, Neil Zhenqiang Gong
+  * Duke University
+  * [2024.07.12] https://arxiv.org/abs/2407.09050
+  * Attack
 * **Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything**
   * Xiaotian Zou, Yongkang Chen
   *  University of Exeter | Nanjing University of Aeronautics and Astronautics
