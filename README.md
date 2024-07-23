@@ -211,6 +211,21 @@ Taxonomy----safety of MLLMs on images and text:
   * [2023.10.03] https://arxiv.org/abs/2310.02224
   * Attack, Defense, Benchmark
 ## Attack
+* **Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts**
+  * Yi Liu, Chengjun Cai, Xiaoli Zhang, Xingliang Yuan, Cong Wang
+  * City University of Hong Kong | City University of Hong Kong (Dongguan) | University of Science and Technology Beijing | The University of Melbourne
+  * [2024.07.21] https://arxiv.org/abs/2407.15050
+  * Attack
+* **When Do Universal Image Jailbreaks Transfer Between Vision-Language Models?**
+  * Rylan Schaeffer, Dan Valentine, Luke Bailey, James Chua, Cristóbal Eyzaguirre, Zane Durante, Joe Benton, Brando Miranda, Henry Sleight, John Hughes, Rajashree Agrawal, Mrinank Sharma, Scott Emmons, Sanmi Koyejo, Ethan Perez
+  * Stanford CS | Harvard SEAS | Anthropic | Constellation | MIT EECS | UC Berkeley EECS
+  * [2024.07.21] https://arxiv.org/abs/2407.15211
+  * Attack
+* **Sim-CLIP: Unsupervised Siamese Adversarial Fine-Tuning for Robust and Semantically-Rich Vision-Language Models**
+  * Md Zarif Hossain, Ahmed Imteaj
+  * Southern Illinois University | Security, Privacy and Intelligence for Edge Devices Laboratory (SPEED Lab)
+  * [2024.07.20] https://arxiv.org/abs/2407.14971
+  * Attack
 * **Refusing Safe Prompts for Multi-modal Large Language Models** | [Github](https://github.com/Sadcardation/MLLM-Refusal) ![Star](https://img.shields.io/github/stars/Sadcardation/MLLM-Refusal.svg?style=social&label=Star)
   * Zedian Shao, Hongbin Liu, Yuepeng Hu, Neil Zhenqiang Gong
   * Duke University

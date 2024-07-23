@@ -1,6 +1,33 @@
 {
     "Main": [
         {
+            "Date": "2024.07.21",
+            "Notes": "Attack",
+            "Title": "Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts",
+            "Link": "https://arxiv.org/abs/2407.15050",
+            "Author": "Yi Liu, Chengjun Cai, Xiaoli Zhang, Xingliang Yuan, Cong Wang",
+            "Affiliation": "City University of Hong Kong | City University of Hong Kong (Dongguan) | University of Science and Technology Beijing | The University of Melbourne",
+            "Code": ""
+        },
+        {
+            "Date": "2024.07.21",
+            "Notes": "Attack",
+            "Title": "When Do Universal Image Jailbreaks Transfer Between Vision-Language Models?",
+            "Link": "https://arxiv.org/abs/2407.15211",
+            "Author": "Rylan Schaeffer, Dan Valentine, Luke Bailey, James Chua, Cristóbal Eyzaguirre, Zane Durante, Joe Benton, Brando Miranda, Henry Sleight, John Hughes, Rajashree Agrawal, Mrinank Sharma, Scott Emmons, Sanmi Koyejo, Ethan Perez",
+            "Affiliation": "Stanford CS | Harvard SEAS | Anthropic | Constellation | MIT EECS | UC Berkeley EECS",
+            "Code": ""
+        },
+        {
+            "Date": "2024.07.20",
+            "Notes": "Attack",
+            "Title": "Sim-CLIP: Unsupervised Siamese Adversarial Fine-Tuning for Robust and Semantically-Rich Vision-Language Models",
+            "Link": "https://arxiv.org/abs/2407.14971",
+            "Author": "Md Zarif Hossain, Ahmed Imteaj",
+            "Affiliation": "Southern Illinois University | Security, Privacy and Intelligence for Edge Devices Laboratory (SPEED Lab)",
+            "Code": ""
+        },
+        {
             "Date": "2024.07.12",
             "Notes": "Attack",
             "Title": "Refusing Safe Prompts for Multi-modal Large Language Models",
