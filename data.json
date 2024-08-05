@@ -1,6 +1,15 @@
 {
     "Main": [
         {
+            "Date": "2024.08.02",
+            "Notes": "A finding",
+            "Title": "The Phantom Menace: Unmasking Privacy Leakages in Vision-Language Models",
+            "Link": "https://arxiv.org/abs/2408.01228",
+            "Author": "Simone Caldarella, Massimiliano Mancini, Elisa Ricci, Rahaf Aljundi",
+            "Affiliation": "University of Trento | Toyota Motor Europe | Fondazione Bruno Kessler",
+            "Code": ""
+        },
+        {
             "Date": "2024.07.21",
             "Notes": "Attack",
             "Title": "Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts",

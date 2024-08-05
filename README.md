@@ -45,6 +45,11 @@ Taxonomy----safety of MLLMs on images and text:
 ---
 
 ## Evaluation
+* **The Phantom Menace: Unmasking Privacy Leakages in Vision-Language Models**
+  * Simone Caldarella, Massimiliano Mancini, Elisa Ricci, Rahaf Aljundi
+  * University of Trento | Toyota Motor Europe | Fondazione Bruno Kessler
+  * [2024.08.02] https://arxiv.org/abs/2408.01228
+  * A finding
 * **Granular Privacy Control for Geolocation with Vision Language Models** | [Github](https://github.com/ethanm88/GPTGeoChat) ![Star](https://img.shields.io/github/stars/ethanm88/GPTGeoChat.svg?style=social&label=Star)
   * Ethan Mendes, Yang Chen, James Hays, Sauvik Das, Wei Xu, Alan Ritter
   * Georgia Tech | CMU
