@@ -1,5 +1,5 @@
 # Awesome-MLLM-Safety [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/isXinLiu/Awesome-MLLM-Safety)
-A **continual** collection of papers related to safety of Multimodal Large Language Models (MLLMs).
+A collection (won't be updated) of papers related to safety of Multimodal Large Language Models (MLLMs).
 
 We follow the definition of safety from the paper <b><q>Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions</q></b>: <blockquote>Safety is defined as stopping models from following malicious instructions and <b>generating toxic content</b>.</blockquote>
 
